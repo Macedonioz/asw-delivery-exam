@@ -1,0 +1,6449 @@
+[
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc305e"
+    },
+    "area": 91,
+    "borders": [],
+    "capital": "The Valley",
+    "currency": [
+      "XCD"
+    ],
+    "demonym": "Anguillian",
+    "languages": {
+      "eng": "English"
+    },
+    "latlng": [
+      18.25,
+      -63.16666666
+    ],
+    "name": "Anguilla",
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc305f"
+    },
+    "area": 468,
+    "borders": [
+      "FRA",
+      "ESP"
+    ],
+    "capital": "Andorra la Vella",
+    "currency": [
+      "EUR"
+    ],
+    "demonym": "Andorran",
+    "languages": {
+      "cat": "Catalan"
+    },
+    "latlng": [
+      42.5,
+      1.5
+    ],
+    "name": "Principality of Andorra",
+    "region": "Europe",
+    "subregion": "Southern Europe"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3060"
+    },
+    "area": 1.2467E+6,
+    "borders": [
+      "COG",
+      "COD",
+      "ZMB",
+      "NAM"
+    ],
+    "capital": "Luanda",
+    "currency": [
+      "AOA"
+    ],
+    "demonym": "Angolan",
+    "languages": {
+      "por": "Portuguese"
+    },
+    "latlng": [
+      -12.5,
+      18.5
+    ],
+    "name": "Republic of Angola",
+    "region": "Africa",
+    "subregion": "Middle Africa"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3061"
+    },
+    "area": 83600,
+    "borders": [
+      "OMN",
+      "SAU"
+    ],
+    "capital": "Abu Dhabi",
+    "currency": [
+      "AED"
+    ],
+    "demonym": "Emirati",
+    "languages": {
+      "ara": "Arabic"
+    },
+    "latlng": [
+      24,
+      54
+    ],
+    "name": "United Arab Emirates",
+    "region": "Asia",
+    "subregion": "Western Asia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3062"
+    },
+    "area": 1580,
+    "borders": [],
+    "capital": "Mariehamn",
+    "currency": [
+      "EUR"
+    ],
+    "demonym": "Ålandish",
+    "languages": {
+      "swe": "Swedish"
+    },
+    "latlng": [
+      60.116667,
+      19.9
+    ],
+    "name": "Åland Islands",
+    "region": "Europe",
+    "subregion": "Northern Europe"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3063"
+    },
+    "area": 652230,
+    "borders": [
+      "IRN",
+      "PAK",
+      "TKM",
+      "UZB",
+      "TJK",
+      "CHN"
+    ],
+    "capital": "Kabul",
+    "currency": [
+      "AFN"
+    ],
+    "demonym": "Afghan",
+    "languages": {
+      "prs": "Dari",
+      "pus": "Pashto",
+      "tuk": "Turkmen"
+    },
+    "latlng": [
+      33,
+      65
+    ],
+    "name": "Islamic Republic of Afghanistan",
+    "region": "Asia",
+    "subregion": "Southern Asia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3064"
+    },
+    "area": 1.4E+7,
+    "borders": [],
+    "capital": "",
+    "currency": [],
+    "demonym": "Antarctican",
+    "languages": {},
+    "latlng": [
+      -90,
+      0
+    ],
+    "name": "Antarctica",
+    "region": "",
+    "subregion": ""
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3065"
+    },
+    "area": 7692024,
+    "borders": [],
+    "capital": "Canberra",
+    "currency": [
+      "AUD"
+    ],
+    "demonym": "Australian",
+    "languages": {
+      "eng": "English"
+    },
+    "latlng": [
+      -27,
+      133
+    ],
+    "name": "Commonwealth of Australia",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3066"
+    },
+    "area": 7747,
+    "borders": [],
+    "capital": "Port-aux-Français",
+    "currency": [
+      "EUR"
+    ],
+    "demonym": "French",
+    "languages": {
+      "fra": "French"
+    },
+    "latlng": [
+      -49.25,
+      69.167
+    ],
+    "name": "Territory of the French Southern and Antarctic Lands",
+    "region": "",
+    "subregion": ""
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3067"
+    },
+    "area": 199,
+    "borders": [],
+    "capital": "Pago Pago",
+    "currency": [
+      "USD"
+    ],
+    "demonym": "American Samoan",
+    "languages": {
+      "eng": "English",
+      "smo": "Samoan"
+    },
+    "latlng": [
+      -14.33333333,
+      -170
+    ],
+    "name": "American Samoa",
+    "region": "Oceania",
+    "subregion": "Polynesia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3068"
+    },
+    "area": 83871,
+    "borders": [
+      "CZE",
+      "DEU",
+      "HUN",
+      "ITA",
+      "LIE",
+      "SVK",
+      "SVN",
+      "CHE"
+    ],
+    "capital": "Vienna",
+    "currency": [
+      "EUR"
+    ],
+    "demonym": "Austrian",
+    "languages": {
+      "bar": "Austro-Bavarian German"
+    },
+    "latlng": [
+      47.33333333,
+      13.33333333
+    ],
+    "name": "Republic of Austria",
+    "region": "Europe",
+    "subregion": "Western Europe"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3069"
+    },
+    "area": 86600,
+    "borders": [
+      "ARM",
+      "GEO",
+      "IRN",
+      "RUS",
+      "TUR"
+    ],
+    "capital": "Baku",
+    "currency": [
+      "AZN"
+    ],
+    "demonym": "Azerbaijani",
+    "languages": {
+      "aze": "Azerbaijani",
+      "rus": "Russian"
+    },
+    "latlng": [
+      40.5,
+      47.5
+    ],
+    "name": "Republic of Azerbaijan",
+    "region": "Asia",
+    "subregion": "Western Asia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc306a"
+    },
+    "area": 27834,
+    "borders": [
+      "COD",
+      "RWA",
+      "TZA"
+    ],
+    "capital": "Bujumbura",
+    "currency": [
+      "BIF"
+    ],
+    "demonym": "Burundian",
+    "languages": {
+      "fra": "French",
+      "run": "Kirundi"
+    },
+    "latlng": [
+      -3.5,
+      30
+    ],
+    "name": "Republic of Burundi",
+    "region": "Africa",
+    "subregion": "Eastern Africa"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc306b"
+    },
+    "area": 30528,
+    "borders": [
+      "FRA",
+      "DEU",
+      "LUX",
+      "NLD"
+    ],
+    "capital": "Brussels",
+    "currency": [
+      "EUR"
+    ],
+    "demonym": "Belgian",
+    "languages": {
+      "deu": "German",
+      "fra": "French",
+      "nld": "Dutch"
+    },
+    "latlng": [
+      50.83333333,
+      4
+    ],
+    "name": "Kingdom of Belgium",
+    "region": "Europe",
+    "subregion": "Western Europe"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc306c"
+    },
+    "area": 112622,
+    "borders": [
+      "BFA",
+      "NER",
+      "NGA",
+      "TGO"
+    ],
+    "capital": "Porto-Novo",
+    "currency": [
+      "XOF"
+    ],
+    "demonym": "Beninese",
+    "languages": {
+      "fra": "French"
+    },
+    "latlng": [
+      9.5,
+      2.25
+    ],
+    "name": "Republic of Benin",
+    "region": "Africa",
+    "subregion": "Western Africa"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc306d"
+    },
+    "area": 272967,
+    "borders": [
+      "BEN",
+      "CIV",
+      "GHA",
+      "MLI",
+      "NER",
+      "TGO"
+    ],
+    "capital": "Ouagadougou",
+    "currency": [
+      "XOF"
+    ],
+    "demonym": "Burkinabe",
+    "languages": {
+      "fra": "French"
+    },
+    "latlng": [
+      13,
+      -2
+    ],
+    "name": "Burkina Faso",
+    "region": "Africa",
+    "subregion": "Western Africa"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc306e"
+    },
+    "area": 147570,
+    "borders": [
+      "MMR",
+      "IND"
+    ],
+    "capital": "Dhaka",
+    "currency": [
+      "BDT"
+    ],
+    "demonym": "Bangladeshi",
+    "languages": {
+      "ben": "Bengali"
+    },
+    "latlng": [
+      24,
+      90
+    ],
+    "name": "People's Republic of Bangladesh",
+    "region": "Asia",
+    "subregion": "Southern Asia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc306f"
+    },
+    "area": 110879,
+    "borders": [
+      "GRC",
+      "MKD",
+      "ROU",
+      "SRB",
+      "TUR"
+    ],
+    "capital": "Sofia",
+    "currency": [
+      "BGN"
+    ],
+    "demonym": "Bulgarian",
+    "languages": {
+      "bul": "Bulgarian"
+    },
+    "latlng": [
+      43,
+      25
+    ],
+    "name": "Republic of Bulgaria",
+    "region": "Europe",
+    "subregion": "Eastern Europe"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3070"
+    },
+    "area": 13943,
+    "borders": [],
+    "capital": "Nassau",
+    "currency": [
+      "BSD"
+    ],
+    "demonym": "Bahamian",
+    "languages": {
+      "eng": "English"
+    },
+    "latlng": [
+      24.25,
+      -76
+    ],
+    "name": "Commonwealth of the Bahamas",
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3071"
+    },
+    "area": 51209,
+    "borders": [
+      "HRV",
+      "MNE",
+      "SRB"
+    ],
+    "capital": "Sarajevo",
+    "currency": [
+      "BAM"
+    ],
+    "demonym": "Bosnian, Herzegovinian",
+    "languages": {
+      "bos": "Bosnian",
+      "hrv": "Croatian",
+      "srp": "Serbian"
+    },
+    "latlng": [
+      44,
+      18
+    ],
+    "name": "Bosnia and Herzegovina",
+    "region": "Europe",
+    "subregion": "Southern Europe"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3072"
+    },
+    "area": 21,
+    "borders": [],
+    "capital": "Gustavia",
+    "currency": [
+      "EUR"
+    ],
+    "demonym": "Saint Barthélemy Islander",
+    "languages": {
+      "fra": "French"
+    },
+    "latlng": [
+      18.5,
+      -63.41666666
+    ],
+    "name": "Collectivity of Saint BarthélemySaint Barthélemy",
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3073"
+    },
+    "area": 22966,
+    "borders": [
+      "GTM",
+      "MEX"
+    ],
+    "capital": "Belmopan",
+    "currency": [
+      "BZD"
+    ],
+    "demonym": "Belizean",
+    "languages": {
+      "bjz": "Belizean Creole",
+      "eng": "English",
+      "spa": "Spanish"
+    },
+    "latlng": [
+      17.25,
+      -88.75
+    ],
+    "name": "Belize",
+    "region": "Americas",
+    "subregion": "Central America"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3074"
+    },
+    "area": 54,
+    "borders": [],
+    "capital": "Hamilton",
+    "currency": [
+      "BMD"
+    ],
+    "demonym": "Bermudian",
+    "languages": {
+      "eng": "English"
+    },
+    "latlng": [
+      32.33333333,
+      -64.75
+    ],
+    "name": "Bermuda",
+    "region": "Americas",
+    "subregion": "Northern America"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3075"
+    },
+    "area": 29743,
+    "borders": [
+      "AZE",
+      "GEO",
+      "IRN",
+      "TUR"
+    ],
+    "capital": "Yerevan",
+    "currency": [
+      "AMD"
+    ],
+    "demonym": "Armenian",
+    "languages": {
+      "hye": "Armenian",
+      "rus": "Russian"
+    },
+    "latlng": [
+      40,
+      45
+    ],
+    "name": "Republic of Armenia",
+    "region": "Asia",
+    "subregion": "Western Asia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3076"
+    },
+    "area": 1098581,
+    "borders": [
+      "ARG",
+      "BRA",
+      "CHL",
+      "PRY",
+      "PER"
+    ],
+    "capital": "Sucre",
+    "currency": [
+      "BOB",
+      "BOV"
+    ],
+    "demonym": "Bolivian",
+    "languages": {
+      "aym": "Aymara",
+      "grn": "Guaraní",
+      "que": "Quechua",
+      "spa": "Spanish"
+    },
+    "latlng": [
+      -17,
+      -65
+    ],
+    "name": "Plurinational State of Bolivia",
+    "region": "Americas",
+    "subregion": "South America"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3077"
+    },
+    "area": 442,
+    "borders": [],
+    "capital": "Saint John's",
+    "currency": [
+      "XCD"
+    ],
+    "demonym": "Antiguan, Barbudan",
+    "languages": {
+      "eng": "English"
+    },
+    "latlng": [
+      17.05,
+      -61.8
+    ],
+    "name": "Antigua and Barbuda",
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3078"
+    },
+    "area": 8515767,
+    "borders": [
+      "ARG",
+      "BOL",
+      "COL",
+      "GUF",
+      "GUY",
+      "PRY",
+      "PER",
+      "SUR",
+      "URY",
+      "VEN"
+    ],
+    "capital": "Brasília",
+    "currency": [
+      "BRL"
+    ],
+    "demonym": "Brazilian",
+    "languages": {
+      "por": "Portuguese"
+    },
+    "latlng": [
+      -10,
+      -55
+    ],
+    "name": "Federative Republic of Brazil",
+    "region": "Americas",
+    "subregion": "South America"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3079"
+    },
+    "area": 5765,
+    "borders": [
+      "MYS"
+    ],
+    "capital": "Bandar Seri Begawan",
+    "currency": [
+      "BND"
+    ],
+    "demonym": "Bruneian",
+    "languages": {
+      "msa": "Malay"
+    },
+    "latlng": [
+      4.5,
+      114.66666666
+    ],
+    "name": "Nation of Brunei, Abode of Peace",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc307a"
+    },
+    "area": 49,
+    "borders": [],
+    "capital": "",
+    "currency": [
+      "NOK"
+    ],
+    "demonym": "",
+    "languages": {
+      "nor": "Norwegian"
+    },
+    "latlng": [
+      -54.43333333,
+      3.4
+    ],
+    "name": "Bouvet Island",
+    "region": "",
+    "subregion": ""
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc307b"
+    },
+    "area": 2.7804E+6,
+    "borders": [
+      "BOL",
+      "BRA",
+      "CHL",
+      "PRY",
+      "URY"
+    ],
+    "capital": "Buenos Aires",
+    "currency": [
+      "ARS"
+    ],
+    "demonym": "Argentinean",
+    "languages": {
+      "grn": "Guaraní",
+      "spa": "Spanish"
+    },
+    "latlng": [
+      -34,
+      -64
+    ],
+    "name": "Argentine Republic",
+    "region": "Americas",
+    "subregion": "South America"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc307c"
+    },
+    "area": 38394,
+    "borders": [
+      "CHN",
+      "IND"
+    ],
+    "capital": "Thimphu",
+    "currency": [
+      "BTN",
+      "INR"
+    ],
+    "demonym": "Bhutanese",
+    "languages": {
+      "dzo": "Dzongkha"
+    },
+    "latlng": [
+      27.5,
+      90.5
+    ],
+    "name": "Kingdom of Bhutan",
+    "region": "Asia",
+    "subregion": "Southern Asia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc307d"
+    },
+    "area": 207600,
+    "borders": [
+      "LVA",
+      "LTU",
+      "POL",
+      "RUS",
+      "UKR"
+    ],
+    "capital": "Minsk",
+    "currency": [
+      "BYR"
+    ],
+    "demonym": "Belarusian",
+    "languages": {
+      "bel": "Belarusian",
+      "rus": "Russian"
+    },
+    "latlng": [
+      53,
+      28
+    ],
+    "name": "Republic of Belarus",
+    "region": "Europe",
+    "subregion": "Eastern Europe"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc307e"
+    },
+    "area": 765,
+    "borders": [],
+    "capital": "Manama",
+    "currency": [
+      "BHD"
+    ],
+    "demonym": "Bahraini",
+    "languages": {
+      "ara": "Arabic"
+    },
+    "latlng": [
+      26,
+      50.55
+    ],
+    "name": "Kingdom of Bahrain",
+    "region": "Asia",
+    "subregion": "Western Asia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc307f"
+    },
+    "area": 180,
+    "borders": [],
+    "capital": "Oranjestad",
+    "currency": [
+      "AWG"
+    ],
+    "demonym": "Aruban",
+    "languages": {
+      "nld": "Dutch",
+      "pap": "Papiamento"
+    },
+    "latlng": [
+      12.5,
+      -69.96666666
+    ],
+    "name": "Aruba",
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3080"
+    },
+    "area": 28748,
+    "borders": [
+      "MNE",
+      "GRC",
+      "MKD",
+      "KOS"
+    ],
+    "capital": "Tirana",
+    "currency": [
+      "ALL"
+    ],
+    "demonym": "Albanian",
+    "languages": {
+      "sqi": "Albanian"
+    },
+    "latlng": [
+      41,
+      20
+    ],
+    "name": "Republic of Albania",
+    "region": "Europe",
+    "subregion": "Southern Europe"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3081"
+    },
+    "area": 582000,
+    "borders": [
+      "NAM",
+      "ZAF",
+      "ZMB",
+      "ZWE"
+    ],
+    "capital": "Gaborone",
+    "currency": [
+      "BWP"
+    ],
+    "demonym": "Motswana",
+    "languages": {
+      "eng": "English",
+      "tsn": "Tswana"
+    },
+    "latlng": [
+      -22,
+      24
+    ],
+    "name": "Republic of Botswana",
+    "region": "Africa",
+    "subregion": "Southern Africa"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3082"
+    },
+    "area": 430,
+    "borders": [],
+    "capital": "Bridgetown",
+    "currency": [
+      "BBD"
+    ],
+    "demonym": "Barbadian",
+    "languages": {
+      "eng": "English"
+    },
+    "latlng": [
+      13.16666666,
+      -59.53333333
+    ],
+    "name": "Barbados",
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3083"
+    },
+    "area": 9706961,
+    "borders": [
+      "AFG",
+      "BTN",
+      "MMR",
+      "HKG",
+      "IND",
+      "KAZ",
+      "PRK",
+      "KGZ",
+      "LAO",
+      "MAC",
+      "MNG",
+      "PAK",
+      "RUS",
+      "TJK",
+      "VNM"
+    ],
+    "capital": "Beijing",
+    "currency": [
+      "CNY"
+    ],
+    "demonym": "Chinese",
+    "languages": {
+      "cmn": "Mandarin"
+    },
+    "latlng": [
+      35,
+      105
+    ],
+    "name": "People's Republic of China",
+    "region": "Asia",
+    "subregion": "Eastern Asia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3084"
+    },
+    "area": 475442,
+    "borders": [
+      "CAF",
+      "TCD",
+      "COG",
+      "GNQ",
+      "GAB",
+      "NGA"
+    ],
+    "capital": "Yaoundé",
+    "currency": [
+      "XAF"
+    ],
+    "demonym": "Cameroonian",
+    "languages": {
+      "eng": "English",
+      "fra": "French"
+    },
+    "latlng": [
+      6,
+      12
+    ],
+    "name": "Republic of Cameroon",
+    "region": "Africa",
+    "subregion": "Middle Africa"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3085"
+    },
+    "area": 2344858,
+    "borders": [
+      "AGO",
+      "BDI",
+      "CAF",
+      "COG",
+      "RWA",
+      "SSD",
+      "TZA",
+      "UGA",
+      "ZMB"
+    ],
+    "capital": "Kinshasa",
+    "currency": [
+      "CDF"
+    ],
+    "demonym": "Congolese",
+    "languages": {
+      "fra": "French",
+      "kon": "Kikongo",
+      "lin": "Lingala",
+      "lua": "Tshiluba",
+      "swa": "Swahili"
+    },
+    "latlng": [
+      0,
+      25
+    ],
+    "name": "Democratic Republic of the Congo",
+    "region": "Africa",
+    "subregion": "Middle Africa"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3086"
+    },
+    "area": 41284,
+    "borders": [
+      "AUT",
+      "FRA",
+      "ITA",
+      "LIE",
+      "DEU"
+    ],
+    "capital": "Bern",
+    "currency": [
+      "CHE",
+      "CHF",
+      "CHW"
+    ],
+    "demonym": "Swiss",
+    "languages": {
+      "fra": "French",
+      "gsw": "Swiss German",
+      "ita": "Italian",
+      "roh": "Romansh"
+    },
+    "latlng": [
+      47,
+      8
+    ],
+    "name": "Swiss Confederation",
+    "region": "Europe",
+    "subregion": "Western Europe"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3087"
+    },
+    "area": 756102,
+    "borders": [
+      "ARG",
+      "BOL",
+      "PER"
+    ],
+    "capital": "Santiago",
+    "currency": [
+      "CLF",
+      "CLP"
+    ],
+    "demonym": "Chilean",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "latlng": [
+      -30,
+      -71
+    ],
+    "name": "Republic of Chile",
+    "region": "Americas",
+    "subregion": "South America"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3088"
+    },
+    "area": 322463,
+    "borders": [
+      "BFA",
+      "GHA",
+      "GIN",
+      "LBR",
+      "MLI"
+    ],
+    "capital": "Yamoussoukro",
+    "currency": [
+      "XOF"
+    ],
+    "demonym": "Ivorian",
+    "languages": {
+      "fra": "French"
+    },
+    "latlng": [
+      8,
+      -5
+    ],
+    "name": "Republic of Côte d'Ivoire",
+    "region": "Africa",
+    "subregion": "Western Africa"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3089"
+    },
+    "area": 1862,
+    "borders": [],
+    "capital": "Moroni",
+    "currency": [
+      "KMF"
+    ],
+    "demonym": "Comoran",
+    "languages": {
+      "ara": "Arabic",
+      "fra": "French",
+      "zdj": "Comorian"
+    },
+    "latlng": [
+      -12.16666666,
+      44.25
+    ],
+    "name": "Union of the Comoros",
+    "region": "Africa",
+    "subregion": "Eastern Africa"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc308a"
+    },
+    "area": 9.98467E+6,
+    "borders": [
+      "USA"
+    ],
+    "capital": "Ottawa",
+    "currency": [
+      "CAD"
+    ],
+    "demonym": "Canadian",
+    "languages": {
+      "eng": "English",
+      "fra": "French"
+    },
+    "latlng": [
+      60,
+      -95
+    ],
+    "name": "Canada",
+    "region": "Americas",
+    "subregion": "Northern America"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc308b"
+    },
+    "area": 14,
+    "borders": [],
+    "capital": "West Island",
+    "currency": [
+      "AUD"
+    ],
+    "demonym": "Cocos Islander",
+    "languages": {
+      "eng": "English"
+    },
+    "latlng": [
+      -12.5,
+      96.83333333
+    ],
+    "name": "Territory of the Cocos (Keeling) Islands",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc308c"
+    },
+    "area": 109884,
+    "borders": [],
+    "capital": "Havana",
+    "currency": [
+      "CUC",
+      "CUP"
+    ],
+    "demonym": "Cuban",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "latlng": [
+      21.5,
+      -80
+    ],
+    "name": "Republic of Cuba",
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc308d"
+    },
+    "area": 444,
+    "borders": [],
+    "capital": "Willemstad",
+    "currency": [
+      "ANG"
+    ],
+    "demonym": "Dutch",
+    "languages": {
+      "eng": "English",
+      "nld": "Dutch",
+      "pap": "Papiamento"
+    },
+    "latlng": [
+      12.116667,
+      -68.933333
+    ],
+    "name": "Country of Curaçao",
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc308e"
+    },
+    "area": 1141748,
+    "borders": [
+      "BRA",
+      "ECU",
+      "PAN",
+      "PER",
+      "VEN"
+    ],
+    "capital": "Bogotá",
+    "currency": [
+      "COP"
+    ],
+    "demonym": "Colombian",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "latlng": [
+      4,
+      -72
+    ],
+    "name": "Republic of Colombia",
+    "region": "Americas",
+    "subregion": "South America"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc308f"
+    },
+    "area": 622984,
+    "borders": [
+      "CMR",
+      "TCD",
+      "COD",
+      "COG",
+      "SSD",
+      "SDN"
+    ],
+    "capital": "Bangui",
+    "currency": [
+      "XAF"
+    ],
+    "demonym": "Central African",
+    "languages": {
+      "fra": "French",
+      "sag": "Sango"
+    },
+    "latlng": [
+      7,
+      21
+    ],
+    "name": "Central African Republic",
+    "region": "Africa",
+    "subregion": "Middle Africa"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3090"
+    },
+    "area": 4033,
+    "borders": [],
+    "capital": "Praia",
+    "currency": [
+      "CVE"
+    ],
+    "demonym": "Cape Verdian",
+    "languages": {
+      "por": "Portuguese"
+    },
+    "latlng": [
+      16,
+      -24
+    ],
+    "name": "Republic of Cabo Verde",
+    "region": "Africa",
+    "subregion": "Western Africa"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3091"
+    },
+    "area": 51100,
+    "borders": [
+      "NIC",
+      "PAN"
+    ],
+    "capital": "San José",
+    "currency": [
+      "CRC"
+    ],
+    "demonym": "Costa Rican",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "latlng": [
+      10,
+      -84
+    ],
+    "name": "Republic of Costa Rica",
+    "region": "Americas",
+    "subregion": "Central America"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3092"
+    },
+    "area": 236,
+    "borders": [],
+    "capital": "Avarua",
+    "currency": [
+      "NZD"
+    ],
+    "demonym": "Cook Islander",
+    "languages": {
+      "eng": "English",
+      "rar": "Cook Islands Māori"
+    },
+    "latlng": [
+      -21.23333333,
+      -159.76666666
+    ],
+    "name": "Cook Islands",
+    "region": "Oceania",
+    "subregion": "Polynesia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3093"
+    },
+    "area": 342000,
+    "borders": [
+      "AGO",
+      "CMR",
+      "CAF",
+      "COD",
+      "GAB"
+    ],
+    "capital": "Brazzaville",
+    "currency": [
+      "XAF"
+    ],
+    "demonym": "Congolese",
+    "languages": {
+      "fra": "French",
+      "kon": "Kikongo",
+      "lin": "Lingala"
+    },
+    "latlng": [
+      -1,
+      15
+    ],
+    "name": "Republic of the Congo",
+    "region": "Africa",
+    "subregion": "Middle Africa"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3094"
+    },
+    "area": 357114,
+    "borders": [
+      "AUT",
+      "BEL",
+      "CZE",
+      "DNK",
+      "FRA",
+      "LUX",
+      "NLD",
+      "POL",
+      "CHE"
+    ],
+    "capital": "Berlin",
+    "currency": [
+      "EUR"
+    ],
+    "demonym": "German",
+    "languages": {
+      "deu": "German"
+    },
+    "latlng": [
+      51,
+      9
+    ],
+    "name": "Federal Republic of Germany",
+    "region": "Europe",
+    "subregion": "Western Europe"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3095"
+    },
+    "area": 264,
+    "borders": [],
+    "capital": "George Town",
+    "currency": [
+      "KYD"
+    ],
+    "demonym": "Caymanian",
+    "languages": {
+      "eng": "English"
+    },
+    "latlng": [
+      19.5,
+      -80.5
+    ],
+    "name": "Cayman Islands",
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3096"
+    },
+    "area": 2381741,
+    "borders": [
+      "TUN",
+      "LBY",
+      "NER",
+      "ESH",
+      "MRT",
+      "MLI",
+      "MAR"
+    ],
+    "capital": "Algiers",
+    "currency": [
+      "DZD"
+    ],
+    "demonym": "Algerian",
+    "languages": {
+      "ara": "Arabic"
+    },
+    "latlng": [
+      28,
+      3
+    ],
+    "name": "People's Democratic Republic of Algeria",
+    "region": "Africa",
+    "subregion": "Northern Africa"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3097"
+    },
+    "area": 78865,
+    "borders": [
+      "AUT",
+      "DEU",
+      "POL",
+      "SVK"
+    ],
+    "capital": "Prague",
+    "currency": [
+      "CZK"
+    ],
+    "demonym": "Czech",
+    "languages": {
+      "ces": "Czech",
+      "slk": "Slovak"
+    },
+    "latlng": [
+      49.75,
+      15.5
+    ],
+    "name": "Czech Republic",
+    "region": "Europe",
+    "subregion": "Eastern Europe"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3098"
+    },
+    "area": 23200,
+    "borders": [
+      "ERI",
+      "ETH",
+      "SOM"
+    ],
+    "capital": "Djibouti",
+    "currency": [
+      "DJF"
+    ],
+    "demonym": "Djibouti",
+    "languages": {
+      "ara": "Arabic",
+      "fra": "French"
+    },
+    "latlng": [
+      11.5,
+      43
+    ],
+    "name": "Republic of Djibouti",
+    "region": "Africa",
+    "subregion": "Eastern Africa"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3099"
+    },
+    "area": 751,
+    "borders": [],
+    "capital": "Roseau",
+    "currency": [
+      "XCD"
+    ],
+    "demonym": "Dominican",
+    "languages": {
+      "eng": "English"
+    },
+    "latlng": [
+      15.41666666,
+      -61.33333333
+    ],
+    "name": "Commonwealth of Dominica",
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc309a"
+    },
+    "area": 117600,
+    "borders": [
+      "DJI",
+      "ETH",
+      "SDN"
+    ],
+    "capital": "Asmara",
+    "currency": [
+      "ERN"
+    ],
+    "demonym": "Eritrean",
+    "languages": {
+      "ara": "Arabic",
+      "eng": "English",
+      "tir": "Tigrinya"
+    },
+    "latlng": [
+      15,
+      39
+    ],
+    "name": "State of Eritrea",
+    "region": "Africa",
+    "subregion": "Eastern Africa"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc309b"
+    },
+    "area": 505992,
+    "borders": [
+      "AND",
+      "FRA",
+      "GIB",
+      "PRT",
+      "MAR"
+    ],
+    "capital": "Madrid",
+    "currency": [
+      "EUR"
+    ],
+    "demonym": "Spanish",
+    "languages": {
+      "cat": "Catalan",
+      "eus": "Basque",
+      "glg": "Galician",
+      "oci": "Occitan",
+      "spa": "Spanish"
+    },
+    "latlng": [
+      40,
+      -4
+    ],
+    "name": "Kingdom of Spain",
+    "region": "Europe",
+    "subregion": "Southern Europe"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc309c"
+    },
+    "area": 48671,
+    "borders": [
+      "HTI"
+    ],
+    "capital": "Santo Domingo",
+    "currency": [
+      "DOP"
+    ],
+    "demonym": "Dominican",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "latlng": [
+      19,
+      -70.66666666
+    ],
+    "name": "Dominican Republic",
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc309d"
+    },
+    "area": 45227,
+    "borders": [
+      "LVA",
+      "RUS"
+    ],
+    "capital": "Tallinn",
+    "currency": [
+      "EUR"
+    ],
+    "demonym": "Estonian",
+    "languages": {
+      "est": "Estonian"
+    },
+    "latlng": [
+      59,
+      26
+    ],
+    "name": "Republic of Estonia",
+    "region": "Europe",
+    "subregion": "Northern Europe"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc309e"
+    },
+    "area": 9251,
+    "borders": [
+      "GBR"
+    ],
+    "capital": "Nicosia",
+    "currency": [
+      "EUR"
+    ],
+    "demonym": "Cypriot",
+    "languages": {
+      "ell": "Greek",
+      "tur": "Turkish"
+    },
+    "latlng": [
+      35,
+      33
+    ],
+    "name": "Republic of Cyprus",
+    "region": "Europe",
+    "subregion": "Eastern Europe"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc309f"
+    },
+    "area": 1.1043E+6,
+    "borders": [
+      "DJI",
+      "ERI",
+      "KEN",
+      "SOM",
+      "SSD",
+      "SDN"
+    ],
+    "capital": "Addis Ababa",
+    "currency": [
+      "ETB"
+    ],
+    "demonym": "Ethiopian",
+    "languages": {
+      "amh": "Amharic"
+    },
+    "latlng": [
+      8,
+      38
+    ],
+    "name": "Federal Democratic Republic of Ethiopia",
+    "region": "Africa",
+    "subregion": "Eastern Africa"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30a0"
+    },
+    "area": 1.00245E+6,
+    "borders": [
+      "ISR",
+      "LBY",
+      "SDN"
+    ],
+    "capital": "Cairo",
+    "currency": [
+      "EGP"
+    ],
+    "demonym": "Egyptian",
+    "languages": {
+      "ara": "Arabic"
+    },
+    "latlng": [
+      27,
+      30
+    ],
+    "name": "Arab Republic of Egypt",
+    "region": "Africa",
+    "subregion": "Northern Africa"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30a1"
+    },
+    "area": 18272,
+    "borders": [],
+    "capital": "Suva",
+    "currency": [
+      "FJD"
+    ],
+    "demonym": "Fijian",
+    "languages": {
+      "eng": "English",
+      "fij": "Fijian",
+      "hif": "Fiji Hindi"
+    },
+    "latlng": [
+      -18,
+      175
+    ],
+    "name": "Republic of Fiji",
+    "region": "Oceania",
+    "subregion": "Melanesia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30a2"
+    },
+    "area": 135,
+    "borders": [],
+    "capital": "Flying Fish Cove",
+    "currency": [
+      "AUD"
+    ],
+    "demonym": "Christmas Island",
+    "languages": {
+      "eng": "English"
+    },
+    "latlng": [
+      -10.5,
+      105.66666666
+    ],
+    "name": "Territory of Christmas Island",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30a3"
+    },
+    "area": 338424,
+    "borders": [
+      "NOR",
+      "SWE",
+      "RUS"
+    ],
+    "capital": "Helsinki",
+    "currency": [
+      "EUR"
+    ],
+    "demonym": "Finnish",
+    "languages": {
+      "fin": "Finnish",
+      "swe": "Swedish"
+    },
+    "latlng": [
+      64,
+      26
+    ],
+    "name": "Republic of Finland",
+    "region": "Europe",
+    "subregion": "Northern Europe"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30a4"
+    },
+    "area": 12173,
+    "borders": [],
+    "capital": "Stanley",
+    "currency": [
+      "FKP"
+    ],
+    "demonym": "Falkland Islander",
+    "languages": {
+      "eng": "English"
+    },
+    "latlng": [
+      -51.75,
+      -59
+    ],
+    "name": "Falkland Islands",
+    "region": "Americas",
+    "subregion": "South America"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30a5"
+    },
+    "area": 43094,
+    "borders": [
+      "DEU"
+    ],
+    "capital": "Copenhagen",
+    "currency": [
+      "DKK"
+    ],
+    "demonym": "Danish",
+    "languages": {
+      "dan": "Danish"
+    },
+    "latlng": [
+      56,
+      10
+    ],
+    "name": "Kingdom of Denmark",
+    "region": "Europe",
+    "subregion": "Northern Europe"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30a6"
+    },
+    "area": 242900,
+    "borders": [
+      "IRL"
+    ],
+    "capital": "London",
+    "currency": [
+      "GBP"
+    ],
+    "demonym": "British",
+    "languages": {
+      "eng": "English"
+    },
+    "latlng": [
+      54,
+      -2
+    ],
+    "name": "United Kingdom of Great Britain and Northern Ireland",
+    "region": "Europe",
+    "subregion": "Northern Europe"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30a7"
+    },
+    "area": 69700,
+    "borders": [
+      "ARM",
+      "AZE",
+      "RUS",
+      "TUR"
+    ],
+    "capital": "Tbilisi",
+    "currency": [
+      "GEL"
+    ],
+    "demonym": "Georgian",
+    "languages": {
+      "kat": "Georgian"
+    },
+    "latlng": [
+      42,
+      43.5
+    ],
+    "name": "Georgia",
+    "region": "Asia",
+    "subregion": "Western Asia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30a8"
+    },
+    "area": 238533,
+    "borders": [
+      "BFA",
+      "CIV",
+      "TGO"
+    ],
+    "capital": "Accra",
+    "currency": [
+      "GHS"
+    ],
+    "demonym": "Ghanaian",
+    "languages": {
+      "eng": "English"
+    },
+    "latlng": [
+      8,
+      -2
+    ],
+    "name": "Republic of Ghana",
+    "region": "Africa",
+    "subregion": "Western Africa"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30a9"
+    },
+    "area": 266000,
+    "borders": [
+      "DZA",
+      "MRT",
+      "MAR"
+    ],
+    "capital": "El Aaiún",
+    "currency": [
+      "MAD",
+      "DZD",
+      "MRO"
+    ],
+    "demonym": "Sahrawi",
+    "languages": {
+      "ber": "Berber",
+      "mey": "Hassaniya",
+      "spa": "Spanish"
+    },
+    "latlng": [
+      24.5,
+      -13
+    ],
+    "name": "Sahrawi Arab Democratic Republic",
+    "region": "Africa",
+    "subregion": "Northern Africa"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30aa"
+    },
+    "area": 245857,
+    "borders": [
+      "CIV",
+      "GNB",
+      "LBR",
+      "MLI",
+      "SEN",
+      "SLE"
+    ],
+    "capital": "Conakry",
+    "currency": [
+      "GNF"
+    ],
+    "demonym": "Guinean",
+    "languages": {
+      "fra": "French"
+    },
+    "latlng": [
+      11,
+      -10
+    ],
+    "name": "Republic of Guinea",
+    "region": "Africa",
+    "subregion": "Western Africa"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30ab"
+    },
+    "area": 267668,
+    "borders": [
+      "CMR",
+      "COG",
+      "GNQ"
+    ],
+    "capital": "Libreville",
+    "currency": [
+      "XAF"
+    ],
+    "demonym": "Gabonese",
+    "languages": {
+      "fra": "French"
+    },
+    "latlng": [
+      -1,
+      11.75
+    ],
+    "name": "Gabonese Republic",
+    "region": "Africa",
+    "subregion": "Middle Africa"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30ac"
+    },
+    "area": 78,
+    "borders": [],
+    "capital": "St. Peter Port",
+    "currency": [
+      "GBP"
+    ],
+    "demonym": "Channel Islander",
+    "languages": {
+      "eng": "English",
+      "fra": "French",
+      "nfr": "Guernésiais"
+    },
+    "latlng": [
+      49.46666666,
+      -2.58333333
+    ],
+    "name": "Bailiwick of Guernsey",
+    "region": "Europe",
+    "subregion": "Northern Europe"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30ad"
+    },
+    "area": 6,
+    "borders": [
+      "ESP"
+    ],
+    "capital": "Gibraltar",
+    "currency": [
+      "GIP"
+    ],
+    "demonym": "Gibraltar",
+    "languages": {
+      "eng": "English"
+    },
+    "latlng": [
+      36.13333333,
+      -5.35
+    ],
+    "name": "Gibraltar",
+    "region": "Europe",
+    "subregion": "Southern Europe"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30ae"
+    },
+    "area": 1393,
+    "borders": [],
+    "capital": "Tórshavn",
+    "currency": [
+      "DKK"
+    ],
+    "demonym": "Faroese",
+    "languages": {
+      "dan": "Danish",
+      "fao": "Faroese"
+    },
+    "latlng": [
+      62,
+      -7
+    ],
+    "name": "Faroe Islands",
+    "region": "Europe",
+    "subregion": "Northern Europe"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30af"
+    },
+    "area": 28051,
+    "borders": [
+      "CMR",
+      "GAB"
+    ],
+    "capital": "Malabo",
+    "currency": [
+      "XAF"
+    ],
+    "demonym": "Equatorial Guinean",
+    "languages": {
+      "fra": "French",
+      "por": "Portuguese",
+      "spa": "Spanish"
+    },
+    "latlng": [
+      2,
+      10
+    ],
+    "name": "Republic of Equatorial Guinea",
+    "region": "Africa",
+    "subregion": "Middle Africa"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30b0"
+    },
+    "area": 276841,
+    "borders": [
+      "COL",
+      "PER"
+    ],
+    "capital": "Quito",
+    "currency": [
+      "USD"
+    ],
+    "demonym": "Ecuadorean",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "latlng": [
+      -2,
+      -77.5
+    ],
+    "name": "Republic of Ecuador",
+    "region": "Americas",
+    "subregion": "South America"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30b1"
+    },
+    "area": 702,
+    "borders": [],
+    "capital": "Palikir",
+    "currency": [
+      "USD"
+    ],
+    "demonym": "Micronesian",
+    "languages": {
+      "eng": "English"
+    },
+    "latlng": [
+      6.91666666,
+      158.25
+    ],
+    "name": "Federated States of Micronesia",
+    "region": "Oceania",
+    "subregion": "Micronesia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30b2"
+    },
+    "area": 1628,
+    "borders": [],
+    "capital": "Basse-Terre",
+    "currency": [
+      "EUR"
+    ],
+    "demonym": "Guadeloupian",
+    "languages": {
+      "fra": "French"
+    },
+    "latlng": [
+      16.25,
+      -61.583333
+    ],
+    "name": "Guadeloupe",
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30b3"
+    },
+    "area": 10689,
+    "borders": [
+      "SEN"
+    ],
+    "capital": "Banjul",
+    "currency": [
+      "GMD"
+    ],
+    "demonym": "Gambian",
+    "languages": {
+      "eng": "English"
+    },
+    "latlng": [
+      13.46666666,
+      -16.56666666
+    ],
+    "name": "Republic of the Gambia",
+    "region": "Africa",
+    "subregion": "Western Africa"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30b4"
+    },
+    "area": 36125,
+    "borders": [
+      "GIN",
+      "SEN"
+    ],
+    "capital": "Bissau",
+    "currency": [
+      "XOF"
+    ],
+    "demonym": "Guinea-Bissauan",
+    "languages": {
+      "por": "Portuguese"
+    },
+    "latlng": [
+      12,
+      -15
+    ],
+    "name": "Republic of Guinea-Bissau",
+    "region": "Africa",
+    "subregion": "Western Africa"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30b5"
+    },
+    "area": 549,
+    "borders": [],
+    "capital": "Hagåtña",
+    "currency": [
+      "USD"
+    ],
+    "demonym": "Guamanian",
+    "languages": {
+      "cha": "Chamorro",
+      "eng": "English",
+      "spa": "Spanish"
+    },
+    "latlng": [
+      13.46666666,
+      144.78333333
+    ],
+    "name": "Guam",
+    "region": "Oceania",
+    "subregion": "Micronesia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30b6"
+    },
+    "area": 214969,
+    "borders": [
+      "BRA",
+      "SUR",
+      "VEN"
+    ],
+    "capital": "Georgetown",
+    "currency": [
+      "GYD"
+    ],
+    "demonym": "Guyanese",
+    "languages": {
+      "eng": "English"
+    },
+    "latlng": [
+      5,
+      -59
+    ],
+    "name": "Co-operative Republic of Guyana",
+    "region": "Americas",
+    "subregion": "South America"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30b7"
+    },
+    "area": 344,
+    "borders": [],
+    "capital": "St. George's",
+    "currency": [
+      "XCD"
+    ],
+    "demonym": "Grenadian",
+    "languages": {
+      "eng": "English"
+    },
+    "latlng": [
+      12.11666666,
+      -61.66666666
+    ],
+    "name": "Grenada",
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30b8"
+    },
+    "area": 112492,
+    "borders": [
+      "GTM",
+      "SLV",
+      "NIC"
+    ],
+    "capital": "Tegucigalpa",
+    "currency": [
+      "HNL"
+    ],
+    "demonym": "Honduran",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "latlng": [
+      15,
+      -86.5
+    ],
+    "name": "Republic of Honduras",
+    "region": "Americas",
+    "subregion": "Central America"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30b9"
+    },
+    "area": 2166086,
+    "borders": [],
+    "capital": "Nuuk",
+    "currency": [
+      "DKK"
+    ],
+    "demonym": "Greenlandic",
+    "languages": {
+      "kal": "Greenlandic"
+    },
+    "latlng": [
+      72,
+      -40
+    ],
+    "name": "Greenland",
+    "region": "Americas",
+    "subregion": "Northern America"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30ba"
+    },
+    "area": 83534,
+    "borders": [
+      "BRA",
+      "SUR"
+    ],
+    "capital": "Cayenne",
+    "currency": [
+      "EUR"
+    ],
+    "demonym": "",
+    "languages": {
+      "fra": "French"
+    },
+    "latlng": [
+      4,
+      -53
+    ],
+    "name": "Guiana",
+    "region": "Americas",
+    "subregion": "South America"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30bb"
+    },
+    "area": 93028,
+    "borders": [
+      "AUT",
+      "HRV",
+      "ROU",
+      "SRB",
+      "SVK",
+      "SVN",
+      "UKR"
+    ],
+    "capital": "Budapest",
+    "currency": [
+      "HUF"
+    ],
+    "demonym": "Hungarian",
+    "languages": {
+      "hun": "Hungarian"
+    },
+    "latlng": [
+      47,
+      20
+    ],
+    "name": "Hungary",
+    "region": "Europe",
+    "subregion": "Eastern Europe"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30bc"
+    },
+    "area": 412,
+    "borders": [],
+    "capital": "",
+    "currency": [
+      "AUD"
+    ],
+    "demonym": "Heard and McDonald Islander",
+    "languages": {
+      "eng": "English"
+    },
+    "latlng": [
+      -53.1,
+      72.51666666
+    ],
+    "name": "Heard Island and McDonald Islands",
+    "region": "",
+    "subregion": ""
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30bd"
+    },
+    "area": 1104,
+    "borders": [
+      "CHN"
+    ],
+    "capital": "City of Victoria",
+    "currency": [
+      "HKD"
+    ],
+    "demonym": "Hong Konger",
+    "languages": {
+      "eng": "English",
+      "zho": "Chinese"
+    },
+    "latlng": [
+      22.267,
+      114.188
+    ],
+    "name": "Hong Kong Special Administrative Region of the People's Republic of China",
+    "region": "Asia",
+    "subregion": "Eastern Asia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30be"
+    },
+    "area": 551695,
+    "borders": [
+      "AND",
+      "BEL",
+      "DEU",
+      "ITA",
+      "LUX",
+      "MCO",
+      "ESP",
+      "CHE"
+    ],
+    "capital": "Paris",
+    "currency": [
+      "EUR"
+    ],
+    "demonym": "French",
+    "languages": {
+      "fra": "French"
+    },
+    "latlng": [
+      46,
+      2
+    ],
+    "name": "French Republic",
+    "region": "Europe",
+    "subregion": "Western Europe"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30bf"
+    },
+    "area": 56594,
+    "borders": [
+      "BIH",
+      "HUN",
+      "MNE",
+      "SRB",
+      "SVN"
+    ],
+    "capital": "Zagreb",
+    "currency": [
+      "HRK"
+    ],
+    "demonym": "Croatian",
+    "languages": {
+      "hrv": "Croatian"
+    },
+    "latlng": [
+      45.16666666,
+      15.5
+    ],
+    "name": "Republic of Croatia",
+    "region": "Europe",
+    "subregion": "Southern Europe"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30c0"
+    },
+    "area": 70273,
+    "borders": [
+      "GBR"
+    ],
+    "capital": "Dublin",
+    "currency": [
+      "EUR"
+    ],
+    "demonym": "Irish",
+    "languages": {
+      "eng": "English",
+      "gle": "Irish"
+    },
+    "latlng": [
+      53,
+      -8
+    ],
+    "name": "Republic of Ireland",
+    "region": "Europe",
+    "subregion": "Northern Europe"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30c1"
+    },
+    "area": 60,
+    "borders": [],
+    "capital": "Diego Garcia",
+    "currency": [
+      "USD"
+    ],
+    "demonym": "Indian",
+    "languages": {
+      "eng": "English"
+    },
+    "latlng": [
+      -6,
+      71.5
+    ],
+    "name": "British Indian Ocean Territory",
+    "region": "Africa",
+    "subregion": "Eastern Africa"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30c2"
+    },
+    "area": 1648195,
+    "borders": [
+      "AFG",
+      "ARM",
+      "AZE",
+      "IRQ",
+      "PAK",
+      "TUR",
+      "TKM"
+    ],
+    "capital": "Tehran",
+    "currency": [
+      "IRR"
+    ],
+    "demonym": "Iranian",
+    "languages": {
+      "fas": "Persian"
+    },
+    "latlng": [
+      32,
+      53
+    ],
+    "name": "Islamic Republic of Iran",
+    "region": "Asia",
+    "subregion": "Southern Asia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30c3"
+    },
+    "area": 438317,
+    "borders": [
+      "IRN",
+      "JOR",
+      "KWT",
+      "SAU",
+      "SYR",
+      "TUR"
+    ],
+    "capital": "Baghdad",
+    "currency": [
+      "IQD"
+    ],
+    "demonym": "Iraqi",
+    "languages": {
+      "ara": "Arabic",
+      "arc": "Aramaic",
+      "ckb": "Sorani"
+    },
+    "latlng": [
+      33,
+      44
+    ],
+    "name": "Republic of Iraq",
+    "region": "Asia",
+    "subregion": "Western Asia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30c4"
+    },
+    "area": 103000,
+    "borders": [],
+    "capital": "Reykjavik",
+    "currency": [
+      "ISK"
+    ],
+    "demonym": "Icelander",
+    "languages": {
+      "isl": "Icelandic"
+    },
+    "latlng": [
+      65,
+      -18
+    ],
+    "name": "Iceland",
+    "region": "Europe",
+    "subregion": "Northern Europe"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30c5"
+    },
+    "area": 20770,
+    "borders": [
+      "EGY",
+      "JOR",
+      "LBN",
+      "SYR"
+    ],
+    "capital": "Jerusalem",
+    "currency": [
+      "ILS"
+    ],
+    "demonym": "Israeli",
+    "languages": {
+      "ara": "Arabic",
+      "heb": "Hebrew"
+    },
+    "latlng": [
+      31.47,
+      35.13
+    ],
+    "name": "State of Israel",
+    "region": "Asia",
+    "subregion": "Western Asia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30c6"
+    },
+    "area": 10991,
+    "borders": [],
+    "capital": "Kingston",
+    "currency": [
+      "JMD"
+    ],
+    "demonym": "Jamaican",
+    "languages": {
+      "eng": "English",
+      "jam": "Jamaican Patois"
+    },
+    "latlng": [
+      18.25,
+      -77.5
+    ],
+    "name": "Jamaica",
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30c7"
+    },
+    "area": 116,
+    "borders": [],
+    "capital": "Saint Helier",
+    "currency": [
+      "GBP"
+    ],
+    "demonym": "Channel Islander",
+    "languages": {
+      "eng": "English",
+      "fra": "French",
+      "nrf": "Jèrriais"
+    },
+    "latlng": [
+      49.25,
+      -2.16666666
+    ],
+    "name": "Bailiwick of Jersey",
+    "region": "Europe",
+    "subregion": "Northern Europe"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30c8"
+    },
+    "area": 131990,
+    "borders": [
+      "ALB",
+      "BGR",
+      "TUR",
+      "MKD"
+    ],
+    "capital": "Athens",
+    "currency": [
+      "EUR"
+    ],
+    "demonym": "Greek",
+    "languages": {
+      "ell": "Greek"
+    },
+    "latlng": [
+      39,
+      22
+    ],
+    "name": "Hellenic Republic",
+    "region": "Europe",
+    "subregion": "Southern Europe"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30c9"
+    },
+    "area": 89342,
+    "borders": [
+      "IRQ",
+      "ISR",
+      "SAU",
+      "SYR"
+    ],
+    "capital": "Amman",
+    "currency": [
+      "JOD"
+    ],
+    "demonym": "Jordanian",
+    "languages": {
+      "ara": "Arabic"
+    },
+    "latlng": [
+      31,
+      36
+    ],
+    "name": "Hashemite Kingdom of Jordan",
+    "region": "Asia",
+    "subregion": "Western Asia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30ca"
+    },
+    "area": 3.28759E+6,
+    "borders": [
+      "AFG",
+      "BGD",
+      "BTN",
+      "MMR",
+      "CHN",
+      "NPL",
+      "PAK",
+      "LKA"
+    ],
+    "capital": "New Delhi",
+    "currency": [
+      "INR"
+    ],
+    "demonym": "Indian",
+    "languages": {
+      "eng": "English",
+      "hin": "Hindi",
+      "tam": "Tamil"
+    },
+    "latlng": [
+      20,
+      77
+    ],
+    "name": "Republic of India",
+    "region": "Asia",
+    "subregion": "Southern Asia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30cb"
+    },
+    "area": 377930,
+    "borders": [],
+    "capital": "Tokyo",
+    "currency": [
+      "JPY"
+    ],
+    "demonym": "Japanese",
+    "languages": {
+      "jpn": "Japanese"
+    },
+    "latlng": [
+      36,
+      138
+    ],
+    "name": "Japan",
+    "region": "Asia",
+    "subregion": "Eastern Asia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30cc"
+    },
+    "area": 2.7249E+6,
+    "borders": [
+      "CHN",
+      "KGZ",
+      "RUS",
+      "TKM",
+      "UZB"
+    ],
+    "capital": "Astana",
+    "currency": [
+      "KZT"
+    ],
+    "demonym": "Kazakhstani",
+    "languages": {
+      "kaz": "Kazakh",
+      "rus": "Russian"
+    },
+    "latlng": [
+      48,
+      68
+    ],
+    "name": "Republic of Kazakhstan",
+    "region": "Asia",
+    "subregion": "Central Asia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30cd"
+    },
+    "area": 580367,
+    "borders": [
+      "ETH",
+      "SOM",
+      "SSD",
+      "TZA",
+      "UGA"
+    ],
+    "capital": "Nairobi",
+    "currency": [
+      "KES"
+    ],
+    "demonym": "Kenyan",
+    "languages": {
+      "eng": "English",
+      "swa": "Swahili"
+    },
+    "latlng": [
+      1,
+      38
+    ],
+    "name": "Republic of Kenya",
+    "region": "Africa",
+    "subregion": "Eastern Africa"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30ce"
+    },
+    "area": 181035,
+    "borders": [
+      "LAO",
+      "THA",
+      "VNM"
+    ],
+    "capital": "Phnom Penh",
+    "currency": [
+      "KHR"
+    ],
+    "demonym": "Cambodian",
+    "languages": {
+      "khm": "Khmer"
+    },
+    "latlng": [
+      13,
+      105
+    ],
+    "name": "Kingdom of Cambodia",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30cf"
+    },
+    "area": 572,
+    "borders": [],
+    "capital": "Douglas",
+    "currency": [
+      "GBP"
+    ],
+    "demonym": "Manx",
+    "languages": {
+      "eng": "English",
+      "glv": "Manx"
+    },
+    "latlng": [
+      54.25,
+      -4.5
+    ],
+    "name": "Isle of Man",
+    "region": "Europe",
+    "subregion": "Northern Europe"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30d0"
+    },
+    "area": 199951,
+    "borders": [
+      "CHN",
+      "KAZ",
+      "TJK",
+      "UZB"
+    ],
+    "capital": "Bishkek",
+    "currency": [
+      "KGS"
+    ],
+    "demonym": "Kirghiz",
+    "languages": {
+      "kir": "Kyrgyz",
+      "rus": "Russian"
+    },
+    "latlng": [
+      41,
+      75
+    ],
+    "name": "Kyrgyz Republic",
+    "region": "Asia",
+    "subregion": "Central Asia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30d1"
+    },
+    "area": 108889,
+    "borders": [
+      "BLZ",
+      "SLV",
+      "HND",
+      "MEX"
+    ],
+    "capital": "Guatemala City",
+    "currency": [
+      "GTQ"
+    ],
+    "demonym": "Guatemalan",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "latlng": [
+      15.5,
+      -90.25
+    ],
+    "name": "Republic of Guatemala",
+    "region": "Americas",
+    "subregion": "Central America"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30d2"
+    },
+    "area": 1904569,
+    "borders": [
+      "TLS",
+      "MYS",
+      "PNG"
+    ],
+    "capital": "Jakarta",
+    "currency": [
+      "IDR"
+    ],
+    "demonym": "Indonesian",
+    "languages": {
+      "ind": "Indonesian"
+    },
+    "latlng": [
+      -5,
+      120
+    ],
+    "name": "Republic of Indonesia",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30d3"
+    },
+    "area": 17818,
+    "borders": [
+      "IRQ",
+      "SAU"
+    ],
+    "capital": "Kuwait City",
+    "currency": [
+      "KWD"
+    ],
+    "demonym": "Kuwaiti",
+    "languages": {
+      "ara": "Arabic"
+    },
+    "latlng": [
+      29.5,
+      45.75
+    ],
+    "name": "State of Kuwait",
+    "region": "Asia",
+    "subregion": "Western Asia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30d4"
+    },
+    "area": 301336,
+    "borders": [
+      "AUT",
+      "FRA",
+      "SMR",
+      "SVN",
+      "CHE",
+      "VAT"
+    ],
+    "capital": "Rome",
+    "currency": [
+      "EUR"
+    ],
+    "demonym": "Italian",
+    "languages": {
+      "bar": "Austro-Bavarian German",
+      "ita": "Italian",
+      "srd": "Sardinian"
+    },
+    "latlng": [
+      42.83333333,
+      12.83333333
+    ],
+    "name": "Italian Republic",
+    "region": "Europe",
+    "subregion": "Southern Europe"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30d5"
+    },
+    "area": 10452,
+    "borders": [
+      "ISR",
+      "SYR"
+    ],
+    "capital": "Beirut",
+    "currency": [
+      "LBP"
+    ],
+    "demonym": "Lebanese",
+    "languages": {
+      "ara": "Arabic",
+      "fra": "French"
+    },
+    "latlng": [
+      33.83333333,
+      35.83333333
+    ],
+    "name": "Lebanese Republic",
+    "region": "Asia",
+    "subregion": "Western Asia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30d6"
+    },
+    "area": 261,
+    "borders": [],
+    "capital": "Basseterre",
+    "currency": [
+      "XCD"
+    ],
+    "demonym": "Kittitian or Nevisian",
+    "languages": {
+      "eng": "English"
+    },
+    "latlng": [
+      17.33333333,
+      -62.75
+    ],
+    "name": "Federation of Saint Christopher and Nevisa",
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30d7"
+    },
+    "area": 616,
+    "borders": [],
+    "capital": "Castries",
+    "currency": [
+      "XCD"
+    ],
+    "demonym": "Saint Lucian",
+    "languages": {
+      "eng": "English"
+    },
+    "latlng": [
+      13.88333333,
+      -60.96666666
+    ],
+    "name": "Saint Lucia",
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30d8"
+    },
+    "area": 10908,
+    "borders": [
+      "ALB",
+      "MKD",
+      "MNE",
+      "SRB"
+    ],
+    "capital": "Pristina",
+    "currency": [
+      "EUR"
+    ],
+    "demonym": "Kosovar",
+    "languages": {
+      "sqi": "Albanian",
+      "srp": "Serbian"
+    },
+    "latlng": [
+      42.666667,
+      21.166667
+    ],
+    "name": "Republic of Kosovo",
+    "region": "Europe",
+    "subregion": "Eastern Europe"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30d9"
+    },
+    "area": 27750,
+    "borders": [
+      "DOM"
+    ],
+    "capital": "Port-au-Prince",
+    "currency": [
+      "HTG",
+      "USD"
+    ],
+    "demonym": "Haitian",
+    "languages": {
+      "fra": "French",
+      "hat": "Haitian Creole"
+    },
+    "latlng": [
+      19,
+      -72.41666666
+    ],
+    "name": "Republic of Haiti",
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30da"
+    },
+    "area": 236800,
+    "borders": [
+      "MMR",
+      "KHM",
+      "CHN",
+      "THA",
+      "VNM"
+    ],
+    "capital": "Vientiane",
+    "currency": [
+      "LAK"
+    ],
+    "demonym": "Laotian",
+    "languages": {
+      "lao": "Lao"
+    },
+    "latlng": [
+      18,
+      105
+    ],
+    "name": "Lao People's Democratic Republic",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30db"
+    },
+    "area": 811,
+    "borders": [],
+    "capital": "South Tarawa",
+    "currency": [
+      "AUD"
+    ],
+    "demonym": "I-Kiribati",
+    "languages": {
+      "eng": "English",
+      "gil": "Gilbertese"
+    },
+    "latlng": [
+      1.41666666,
+      173
+    ],
+    "name": "Independent and Sovereign Republic of Kiribati",
+    "region": "Oceania",
+    "subregion": "Micronesia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30dc"
+    },
+    "area": 111369,
+    "borders": [
+      "GIN",
+      "CIV",
+      "SLE"
+    ],
+    "capital": "Monrovia",
+    "currency": [
+      "LRD"
+    ],
+    "demonym": "Liberian",
+    "languages": {
+      "eng": "English"
+    },
+    "latlng": [
+      6.5,
+      -9.5
+    ],
+    "name": "Republic of Liberia",
+    "region": "Africa",
+    "subregion": "Western Africa"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30dd"
+    },
+    "area": 1.75954E+6,
+    "borders": [
+      "DZA",
+      "TCD",
+      "EGY",
+      "NER",
+      "SDN",
+      "TUN"
+    ],
+    "capital": "Tripoli",
+    "currency": [
+      "LYD"
+    ],
+    "demonym": "Libyan",
+    "languages": {
+      "ara": "Arabic"
+    },
+    "latlng": [
+      25,
+      17
+    ],
+    "name": "State of Libya",
+    "region": "Africa",
+    "subregion": "Northern Africa"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30de"
+    },
+    "area": 100210,
+    "borders": [
+      "PRK"
+    ],
+    "capital": "Seoul",
+    "currency": [
+      "KRW"
+    ],
+    "demonym": "South Korean",
+    "languages": {
+      "kor": "Korean"
+    },
+    "latlng": [
+      37,
+      127.5
+    ],
+    "name": "Republic of Korea",
+    "region": "Asia",
+    "subregion": "Eastern Asia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30df"
+    },
+    "area": 160,
+    "borders": [
+      "AUT",
+      "CHE"
+    ],
+    "capital": "Vaduz",
+    "currency": [
+      "CHF"
+    ],
+    "demonym": "Liechtensteiner",
+    "languages": {
+      "deu": "German"
+    },
+    "latlng": [
+      47.26666666,
+      9.53333333
+    ],
+    "name": "Principality of Liechtenstein",
+    "region": "Europe",
+    "subregion": "Western Europe"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30e0"
+    },
+    "area": 65610,
+    "borders": [
+      "IND"
+    ],
+    "capital": "Colombo",
+    "currency": [
+      "LKR"
+    ],
+    "demonym": "Sri Lankan",
+    "languages": {
+      "sin": "Sinhala",
+      "tam": "Tamil"
+    },
+    "latlng": [
+      7,
+      81
+    ],
+    "name": "Democratic Socialist Republic of Sri Lanka",
+    "region": "Asia",
+    "subregion": "Southern Asia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30e1"
+    },
+    "area": 30355,
+    "borders": [
+      "ZAF"
+    ],
+    "capital": "Maseru",
+    "currency": [
+      "LSL",
+      "ZAR"
+    ],
+    "demonym": "Mosotho",
+    "languages": {
+      "eng": "English",
+      "sot": "Sotho"
+    },
+    "latlng": [
+      -29.5,
+      28.5
+    ],
+    "name": "Kingdom of Lesotho",
+    "region": "Africa",
+    "subregion": "Southern Africa"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30e2"
+    },
+    "area": 65300,
+    "borders": [
+      "BLR",
+      "LVA",
+      "POL",
+      "RUS"
+    ],
+    "capital": "Vilnius",
+    "currency": [
+      "EUR"
+    ],
+    "demonym": "Lithuanian",
+    "languages": {
+      "lit": "Lithuanian"
+    },
+    "latlng": [
+      56,
+      24
+    ],
+    "name": "Republic of Lithuania",
+    "region": "Europe",
+    "subregion": "Northern Europe"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30e3"
+    },
+    "area": 2586,
+    "borders": [
+      "BEL",
+      "FRA",
+      "DEU"
+    ],
+    "capital": "Luxembourg",
+    "currency": [
+      "EUR"
+    ],
+    "demonym": "Luxembourger",
+    "languages": {
+      "deu": "German",
+      "fra": "French",
+      "ltz": "Luxembourgish"
+    },
+    "latlng": [
+      49.75,
+      6.16666666
+    ],
+    "name": "Grand Duchy of Luxembourg",
+    "region": "Europe",
+    "subregion": "Western Europe"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30e4"
+    },
+    "area": 64559,
+    "borders": [
+      "BLR",
+      "EST",
+      "LTU",
+      "RUS"
+    ],
+    "capital": "Riga",
+    "currency": [
+      "EUR"
+    ],
+    "demonym": "Latvian",
+    "languages": {
+      "lav": "Latvian"
+    },
+    "latlng": [
+      57,
+      25
+    ],
+    "name": "Republic of Latvia",
+    "region": "Europe",
+    "subregion": "Northern Europe"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30e5"
+    },
+    "area": 30,
+    "borders": [
+      "CHN"
+    ],
+    "capital": "",
+    "currency": [
+      "MOP"
+    ],
+    "demonym": "Chinese",
+    "languages": {
+      "por": "Portuguese",
+      "zho": "Chinese"
+    },
+    "latlng": [
+      22.16666666,
+      113.55
+    ],
+    "name": "Macao Special Administrative Region of the People's Republic of China",
+    "region": "Asia",
+    "subregion": "Eastern Asia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30e6"
+    },
+    "area": 181,
+    "borders": [],
+    "capital": "Majuro",
+    "currency": [
+      "USD"
+    ],
+    "demonym": "Marshallese",
+    "languages": {
+      "eng": "English",
+      "mah": "Marshallese"
+    },
+    "latlng": [
+      9,
+      168
+    ],
+    "name": "Republic of the Marshall Islands",
+    "region": "Oceania",
+    "subregion": "Micronesia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30e7"
+    },
+    "area": 25713,
+    "borders": [
+      "ALB",
+      "BGR",
+      "GRC",
+      "KOS",
+      "SRB"
+    ],
+    "capital": "Skopje",
+    "currency": [
+      "MKD"
+    ],
+    "demonym": "Macedonian",
+    "languages": {
+      "mkd": "Macedonian"
+    },
+    "latlng": [
+      41.83333333,
+      22
+    ],
+    "name": "Republic of Macedonia",
+    "region": "Europe",
+    "subregion": "Southern Europe"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30e8"
+    },
+    "area": 2.02,
+    "borders": [
+      "FRA"
+    ],
+    "capital": "Monaco",
+    "currency": [
+      "EUR"
+    ],
+    "demonym": "Monegasque",
+    "languages": {
+      "fra": "French"
+    },
+    "latlng": [
+      43.73333333,
+      7.4
+    ],
+    "name": "Principality of Monaco",
+    "region": "Europe",
+    "subregion": "Western Europe"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30e9"
+    },
+    "area": 1240192,
+    "borders": [
+      "DZA",
+      "BFA",
+      "GIN",
+      "CIV",
+      "MRT",
+      "NER",
+      "SEN"
+    ],
+    "capital": "Bamako",
+    "currency": [
+      "XOF"
+    ],
+    "demonym": "Malian",
+    "languages": {
+      "fra": "French"
+    },
+    "latlng": [
+      17,
+      -4
+    ],
+    "name": "Republic of Mali",
+    "region": "Africa",
+    "subregion": "Western Africa"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30ea"
+    },
+    "area": 316,
+    "borders": [],
+    "capital": "Valletta",
+    "currency": [
+      "EUR"
+    ],
+    "demonym": "Maltese",
+    "languages": {
+      "eng": "English",
+      "mlt": "Maltese"
+    },
+    "latlng": [
+      35.83333333,
+      14.58333333
+    ],
+    "name": "Republic of Malta",
+    "region": "Europe",
+    "subregion": "Southern Europe"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30eb"
+    },
+    "area": 676578,
+    "borders": [
+      "BGD",
+      "CHN",
+      "IND",
+      "LAO",
+      "THA"
+    ],
+    "capital": "Naypyidaw",
+    "currency": [
+      "MMK"
+    ],
+    "demonym": "Bamar",
+    "languages": {
+      "mya": "Burmese"
+    },
+    "latlng": [
+      22,
+      98
+    ],
+    "name": "Republic of the Union of Myanmar",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30ec"
+    },
+    "area": 587041,
+    "borders": [],
+    "capital": "Antananarivo",
+    "currency": [
+      "MGA"
+    ],
+    "demonym": "Malagasy",
+    "languages": {
+      "fra": "French",
+      "mlg": "Malagasy"
+    },
+    "latlng": [
+      -20,
+      47
+    ],
+    "name": "Republic of Madagascar",
+    "region": "Africa",
+    "subregion": "Eastern Africa"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30ed"
+    },
+    "area": 13812,
+    "borders": [
+      "ALB",
+      "BIH",
+      "HRV",
+      "KOS",
+      "SRB"
+    ],
+    "capital": "Podgorica",
+    "currency": [
+      "EUR"
+    ],
+    "demonym": "Montenegrin",
+    "languages": {
+      "srp": "Montenegrin"
+    },
+    "latlng": [
+      42.5,
+      19.3
+    ],
+    "name": "Montenegro",
+    "region": "Europe",
+    "subregion": "Southern Europe"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30ee"
+    },
+    "area": 1.56411E+6,
+    "borders": [
+      "CHN",
+      "RUS"
+    ],
+    "capital": "Ulan Bator",
+    "currency": [
+      "MNT"
+    ],
+    "demonym": "Mongolian",
+    "languages": {
+      "mon": "Mongolian"
+    },
+    "latlng": [
+      46,
+      105
+    ],
+    "name": "Mongolia",
+    "region": "Asia",
+    "subregion": "Eastern Asia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30ef"
+    },
+    "area": 464,
+    "borders": [],
+    "capital": "Saipan",
+    "currency": [
+      "USD"
+    ],
+    "demonym": "American",
+    "languages": {
+      "cal": "Carolinian",
+      "cha": "Chamorro",
+      "eng": "English"
+    },
+    "latlng": [
+      15.2,
+      145.75
+    ],
+    "name": "Commonwealth of the Northern Mariana Islands",
+    "region": "Oceania",
+    "subregion": "Micronesia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30f0"
+    },
+    "area": 801590,
+    "borders": [
+      "MWI",
+      "ZAF",
+      "SWZ",
+      "TZA",
+      "ZMB",
+      "ZWE"
+    ],
+    "capital": "Maputo",
+    "currency": [
+      "MZN"
+    ],
+    "demonym": "Mozambican",
+    "languages": {
+      "por": "Portuguese"
+    },
+    "latlng": [
+      -18.25,
+      35
+    ],
+    "name": "Republic of Mozambique",
+    "region": "Africa",
+    "subregion": "Eastern Africa"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30f1"
+    },
+    "area": 102,
+    "borders": [],
+    "capital": "Plymouth",
+    "currency": [
+      "XCD"
+    ],
+    "demonym": "Montserratian",
+    "languages": {
+      "eng": "English"
+    },
+    "latlng": [
+      16.75,
+      -62.2
+    ],
+    "name": "Montserrat",
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30f2"
+    },
+    "area": 2040,
+    "borders": [],
+    "capital": "Port Louis",
+    "currency": [
+      "MUR"
+    ],
+    "demonym": "Mauritian",
+    "languages": {
+      "eng": "English",
+      "fra": "French",
+      "mfe": "Mauritian Creole"
+    },
+    "latlng": [
+      -20.28333333,
+      57.55
+    ],
+    "name": "Republic of Mauritius",
+    "region": "Africa",
+    "subregion": "Eastern Africa"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30f3"
+    },
+    "area": 446550,
+    "borders": [
+      "DZA",
+      "ESH",
+      "ESP"
+    ],
+    "capital": "Rabat",
+    "currency": [
+      "MAD"
+    ],
+    "demonym": "Moroccan",
+    "languages": {
+      "ara": "Arabic",
+      "ber": "Berber"
+    },
+    "latlng": [
+      32,
+      -5
+    ],
+    "name": "Kingdom of Morocco",
+    "region": "Africa",
+    "subregion": "Northern Africa"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30f4"
+    },
+    "area": 118484,
+    "borders": [
+      "MOZ",
+      "TZA",
+      "ZMB"
+    ],
+    "capital": "Lilongwe",
+    "currency": [
+      "MWK"
+    ],
+    "demonym": "Malawian",
+    "languages": {
+      "eng": "English",
+      "nya": "Chewa"
+    },
+    "latlng": [
+      -13.5,
+      34
+    ],
+    "name": "Republic of Malawi",
+    "region": "Africa",
+    "subregion": "Eastern Africa"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30f5"
+    },
+    "area": 1128,
+    "borders": [],
+    "capital": "Fort-de-France",
+    "currency": [
+      "EUR"
+    ],
+    "demonym": "French",
+    "languages": {
+      "fra": "French"
+    },
+    "latlng": [
+      14.666667,
+      -61
+    ],
+    "name": "Martinique",
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30f6"
+    },
+    "area": 374,
+    "borders": [],
+    "capital": "Mamoudzou",
+    "currency": [
+      "EUR"
+    ],
+    "demonym": "Mahoran",
+    "languages": {
+      "fra": "French"
+    },
+    "latlng": [
+      -12.83333333,
+      45.16666666
+    ],
+    "name": "Department of Mayotte",
+    "region": "Africa",
+    "subregion": "Eastern Africa"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30f7"
+    },
+    "area": 1964375,
+    "borders": [
+      "BLZ",
+      "GTM",
+      "USA"
+    ],
+    "capital": "Mexico City",
+    "currency": [
+      "MXN"
+    ],
+    "demonym": "Mexican",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "latlng": [
+      23,
+      -102
+    ],
+    "name": "United Mexican States",
+    "region": "Americas",
+    "subregion": "Central America"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30f8"
+    },
+    "area": 53,
+    "borders": [
+      "SXM"
+    ],
+    "capital": "Marigot",
+    "currency": [
+      "EUR"
+    ],
+    "demonym": "Saint Martin Islander",
+    "languages": {
+      "fra": "French"
+    },
+    "latlng": [
+      18.08333333,
+      -63.95
+    ],
+    "name": "Saint Martin",
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30f9"
+    },
+    "area": 330803,
+    "borders": [
+      "BRN",
+      "IDN",
+      "THA"
+    ],
+    "capital": "Kuala Lumpur",
+    "currency": [
+      "MYR"
+    ],
+    "demonym": "Malaysian",
+    "languages": {
+      "eng": "English",
+      "msa": "Malay"
+    },
+    "latlng": [
+      2.5,
+      112.5
+    ],
+    "name": "Malaysia",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30fa"
+    },
+    "area": 36,
+    "borders": [],
+    "capital": "Kingston",
+    "currency": [
+      "AUD"
+    ],
+    "demonym": "Norfolk Islander",
+    "languages": {
+      "eng": "English",
+      "pih": "Norfuk"
+    },
+    "latlng": [
+      -29.03333333,
+      167.95
+    ],
+    "name": "Territory of Norfolk Island",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30fb"
+    },
+    "area": 923768,
+    "borders": [
+      "BEN",
+      "CMR",
+      "TCD",
+      "NER"
+    ],
+    "capital": "Abuja",
+    "currency": [
+      "NGN"
+    ],
+    "demonym": "Nigerian",
+    "languages": {
+      "eng": "English"
+    },
+    "latlng": [
+      10,
+      8
+    ],
+    "name": "Federal Republic of Nigeria",
+    "region": "Africa",
+    "subregion": "Western Africa"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30fc"
+    },
+    "area": 130373,
+    "borders": [
+      "CRI",
+      "HND"
+    ],
+    "capital": "Managua",
+    "currency": [
+      "NIO"
+    ],
+    "demonym": "Nicaraguan",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "latlng": [
+      13,
+      -85
+    ],
+    "name": "Republic of Nicaragua",
+    "region": "Americas",
+    "subregion": "Central America"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30fd"
+    },
+    "area": 260,
+    "borders": [],
+    "capital": "Alofi",
+    "currency": [
+      "NZD"
+    ],
+    "demonym": "Niuean",
+    "languages": {
+      "eng": "English",
+      "niu": "Niuean"
+    },
+    "latlng": [
+      -19.03333333,
+      -169.86666666
+    ],
+    "name": "Niue",
+    "region": "Oceania",
+    "subregion": "Polynesia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30fe"
+    },
+    "area": 41850,
+    "borders": [
+      "BEL",
+      "DEU"
+    ],
+    "capital": "Amsterdam",
+    "currency": [
+      "EUR"
+    ],
+    "demonym": "Dutch",
+    "languages": {
+      "nld": "Dutch"
+    },
+    "latlng": [
+      52.5,
+      5.75
+    ],
+    "name": "Netherlands",
+    "region": "Europe",
+    "subregion": "Western Europe"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc30ff"
+    },
+    "area": 1.267E+6,
+    "borders": [
+      "DZA",
+      "BEN",
+      "BFA",
+      "TCD",
+      "LBY",
+      "MLI",
+      "NGA"
+    ],
+    "capital": "Niamey",
+    "currency": [
+      "XOF"
+    ],
+    "demonym": "Nigerien",
+    "languages": {
+      "fra": "French"
+    },
+    "latlng": [
+      16,
+      8
+    ],
+    "name": "Republic of Niger",
+    "region": "Africa",
+    "subregion": "Western Africa"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3100"
+    },
+    "area": 33846,
+    "borders": [
+      "ROU",
+      "UKR"
+    ],
+    "capital": "Chișinău",
+    "currency": [
+      "MDL"
+    ],
+    "demonym": "Moldovan",
+    "languages": {
+      "ron": "Moldavian"
+    },
+    "latlng": [
+      47,
+      29
+    ],
+    "name": "Republic of Moldova",
+    "region": "Europe",
+    "subregion": "Eastern Europe"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3101"
+    },
+    "area": 270467,
+    "borders": [],
+    "capital": "Wellington",
+    "currency": [
+      "NZD"
+    ],
+    "demonym": "New Zealander",
+    "languages": {
+      "eng": "English",
+      "mri": "Māori",
+      "nzs": "New Zealand Sign Language"
+    },
+    "latlng": [
+      -41,
+      174
+    ],
+    "name": "New Zealand",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3102"
+    },
+    "area": 309500,
+    "borders": [
+      "SAU",
+      "ARE",
+      "YEM"
+    ],
+    "capital": "Muscat",
+    "currency": [
+      "OMR"
+    ],
+    "demonym": "Omani",
+    "languages": {
+      "ara": "Arabic"
+    },
+    "latlng": [
+      21,
+      57
+    ],
+    "name": "Sultanate of Oman",
+    "region": "Asia",
+    "subregion": "Western Asia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3103"
+    },
+    "area": 881912,
+    "borders": [
+      "AFG",
+      "CHN",
+      "IND",
+      "IRN"
+    ],
+    "capital": "Islamabad",
+    "currency": [
+      "PKR"
+    ],
+    "demonym": "Pakistani",
+    "languages": {
+      "eng": "English",
+      "urd": "Urdu"
+    },
+    "latlng": [
+      30,
+      70
+    ],
+    "name": "Islamic Republic of Pakistan",
+    "region": "Asia",
+    "subregion": "Southern Asia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3104"
+    },
+    "area": 75417,
+    "borders": [
+      "COL",
+      "CRI"
+    ],
+    "capital": "Panama City",
+    "currency": [
+      "PAB",
+      "USD"
+    ],
+    "demonym": "Panamanian",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "latlng": [
+      9,
+      -80
+    ],
+    "name": "Republic of Panama",
+    "region": "Americas",
+    "subregion": "Central America"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3105"
+    },
+    "area": 47,
+    "borders": [],
+    "capital": "Adamstown",
+    "currency": [
+      "NZD"
+    ],
+    "demonym": "Pitcairn Islander",
+    "languages": {
+      "eng": "English"
+    },
+    "latlng": [
+      -25.06666666,
+      -130.1
+    ],
+    "name": "Pitcairn Group of Islands",
+    "region": "Oceania",
+    "subregion": "Polynesia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3106"
+    },
+    "area": 1285216,
+    "borders": [
+      "BOL",
+      "BRA",
+      "CHL",
+      "COL",
+      "ECU"
+    ],
+    "capital": "Lima",
+    "currency": [
+      "PEN"
+    ],
+    "demonym": "Peruvian",
+    "languages": {
+      "aym": "Aymara",
+      "que": "Quechua",
+      "spa": "Spanish"
+    },
+    "latlng": [
+      -10,
+      -76
+    ],
+    "name": "Republic of Peru",
+    "region": "Americas",
+    "subregion": "South America"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3107"
+    },
+    "area": 342353,
+    "borders": [],
+    "capital": "Manila",
+    "currency": [
+      "PHP"
+    ],
+    "demonym": "Filipino",
+    "languages": {
+      "eng": "English",
+      "fil": "Filipino"
+    },
+    "latlng": [
+      13,
+      122
+    ],
+    "name": "Republic of the Philippines",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3108"
+    },
+    "area": 459,
+    "borders": [],
+    "capital": "Ngerulmud",
+    "currency": [
+      "USD"
+    ],
+    "demonym": "Palauan",
+    "languages": {
+      "eng": "English",
+      "pau": "Palauan"
+    },
+    "latlng": [
+      7.5,
+      134.5
+    ],
+    "name": "Republic of Palau",
+    "region": "Oceania",
+    "subregion": "Micronesia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3109"
+    },
+    "area": 18575,
+    "borders": [],
+    "capital": "Nouméa",
+    "currency": [
+      "XPF"
+    ],
+    "demonym": "New Caledonian",
+    "languages": {
+      "fra": "French"
+    },
+    "latlng": [
+      -21.5,
+      165.5
+    ],
+    "name": "New Caledonia",
+    "region": "Oceania",
+    "subregion": "Melanesia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc310a"
+    },
+    "area": 462840,
+    "borders": [
+      "IDN"
+    ],
+    "capital": "Port Moresby",
+    "currency": [
+      "PGK"
+    ],
+    "demonym": "Papua New Guinean",
+    "languages": {
+      "eng": "English",
+      "hmo": "Hiri Motu",
+      "tpi": "Tok Pisin"
+    },
+    "latlng": [
+      -6,
+      147
+    ],
+    "name": "Independent State of Papua New Guinea",
+    "region": "Oceania",
+    "subregion": "Melanesia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc310b"
+    },
+    "area": 825615,
+    "borders": [
+      "AGO",
+      "BWA",
+      "ZAF",
+      "ZMB"
+    ],
+    "capital": "Windhoek",
+    "currency": [
+      "NAD",
+      "ZAR"
+    ],
+    "demonym": "Namibian",
+    "languages": {
+      "afr": "Afrikaans",
+      "deu": "German",
+      "eng": "English",
+      "her": "Herero",
+      "hgm": "Khoekhoe",
+      "kwn": "Kwangali",
+      "loz": "Lozi",
+      "ndo": "Ndonga",
+      "tsn": "Tswana"
+    },
+    "latlng": [
+      -22,
+      17
+    ],
+    "name": "Republic of Namibia",
+    "region": "Africa",
+    "subregion": "Southern Africa"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc310c"
+    },
+    "area": 147181,
+    "borders": [
+      "CHN",
+      "IND"
+    ],
+    "capital": "Kathmandu",
+    "currency": [
+      "NPR"
+    ],
+    "demonym": "Nepalese",
+    "languages": {
+      "nep": "Nepali"
+    },
+    "latlng": [
+      28,
+      84
+    ],
+    "name": "Federal Democratic Republic of Nepal",
+    "region": "Asia",
+    "subregion": "Southern Asia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc310d"
+    },
+    "area": 8870,
+    "borders": [],
+    "capital": "San Juan",
+    "currency": [
+      "USD"
+    ],
+    "demonym": "Puerto Rican",
+    "languages": {
+      "eng": "English",
+      "spa": "Spanish"
+    },
+    "latlng": [
+      18.25,
+      -66.5
+    ],
+    "name": "Commonwealth of Puerto Rico",
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc310e"
+    },
+    "area": 120538,
+    "borders": [
+      "CHN",
+      "KOR",
+      "RUS"
+    ],
+    "capital": "Pyongyang",
+    "currency": [
+      "KPW"
+    ],
+    "demonym": "North Korean",
+    "languages": {
+      "kor": "Korean"
+    },
+    "latlng": [
+      40,
+      127
+    ],
+    "name": "Democratic People's Republic of Korea",
+    "region": "Asia",
+    "subregion": "Eastern Asia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc310f"
+    },
+    "area": 92090,
+    "borders": [
+      "ESP"
+    ],
+    "capital": "Lisbon",
+    "currency": [
+      "EUR"
+    ],
+    "demonym": "Portuguese",
+    "languages": {
+      "por": "Portuguese"
+    },
+    "latlng": [
+      39.5,
+      -8
+    ],
+    "name": "Portuguese Republic",
+    "region": "Europe",
+    "subregion": "Southern Europe"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3110"
+    },
+    "area": 6220,
+    "borders": [
+      "ISR",
+      "EGY",
+      "JOR"
+    ],
+    "capital": "Ramallah",
+    "currency": [
+      "ILS"
+    ],
+    "demonym": "Palestinian",
+    "languages": {
+      "ara": "Arabic"
+    },
+    "latlng": [
+      31.9,
+      35.2
+    ],
+    "name": "State of Palestine",
+    "region": "Asia",
+    "subregion": "Western Asia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3111"
+    },
+    "area": 406752,
+    "borders": [
+      "ARG",
+      "BOL",
+      "BRA"
+    ],
+    "capital": "Asunción",
+    "currency": [
+      "PYG"
+    ],
+    "demonym": "Paraguayan",
+    "languages": {
+      "grn": "Guaraní",
+      "spa": "Spanish"
+    },
+    "latlng": [
+      -23,
+      -58
+    ],
+    "name": "Republic of Paraguay",
+    "region": "Americas",
+    "subregion": "South America"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3112"
+    },
+    "area": 1.0307E+6,
+    "borders": [
+      "DZA",
+      "MLI",
+      "SEN",
+      "ESH"
+    ],
+    "capital": "Nouakchott",
+    "currency": [
+      "MRO"
+    ],
+    "demonym": "Mauritanian",
+    "languages": {
+      "ara": "Arabic"
+    },
+    "latlng": [
+      20,
+      -12
+    ],
+    "name": "Islamic Republic of Mauritania",
+    "region": "Africa",
+    "subregion": "Western Africa"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3113"
+    },
+    "area": 300,
+    "borders": [],
+    "capital": "Malé",
+    "currency": [
+      "MVR"
+    ],
+    "demonym": "Maldivan",
+    "languages": {
+      "div": "Maldivian"
+    },
+    "latlng": [
+      3.25,
+      73
+    ],
+    "name": "Republic of the Maldives",
+    "region": "Asia",
+    "subregion": "Southern Asia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3114"
+    },
+    "area": 312679,
+    "borders": [
+      "BLR",
+      "CZE",
+      "DEU",
+      "LTU",
+      "RUS",
+      "SVK",
+      "UKR"
+    ],
+    "capital": "Warsaw",
+    "currency": [
+      "PLN"
+    ],
+    "demonym": "Polish",
+    "languages": {
+      "pol": "Polish"
+    },
+    "latlng": [
+      52,
+      20
+    ],
+    "name": "Republic of Poland",
+    "region": "Europe",
+    "subregion": "Eastern Europe"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3115"
+    },
+    "area": 4167,
+    "borders": [],
+    "capital": "Papeetē",
+    "currency": [
+      "XPF"
+    ],
+    "demonym": "French Polynesian",
+    "languages": {
+      "fra": "French"
+    },
+    "latlng": [
+      -15,
+      -140
+    ],
+    "name": "French Polynesia",
+    "region": "Oceania",
+    "subregion": "Polynesia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3116"
+    },
+    "area": 11586,
+    "borders": [
+      "SAU"
+    ],
+    "capital": "Doha",
+    "currency": [
+      "QAR"
+    ],
+    "demonym": "Qatari",
+    "languages": {
+      "ara": "Arabic"
+    },
+    "latlng": [
+      25.5,
+      51.25
+    ],
+    "name": "State of Qatar",
+    "region": "Asia",
+    "subregion": "Western Asia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3117"
+    },
+    "area": 2511,
+    "borders": [],
+    "capital": "Saint-Denis",
+    "currency": [
+      "EUR"
+    ],
+    "demonym": "French",
+    "languages": {
+      "fra": "French"
+    },
+    "latlng": [
+      -21.15,
+      55.5
+    ],
+    "name": "Réunion Island",
+    "region": "Africa",
+    "subregion": "Eastern Africa"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3118"
+    },
+    "area": 238391,
+    "borders": [
+      "BGR",
+      "HUN",
+      "MDA",
+      "SRB",
+      "UKR"
+    ],
+    "capital": "Bucharest",
+    "currency": [
+      "RON"
+    ],
+    "demonym": "Romanian",
+    "languages": {
+      "ron": "Romanian"
+    },
+    "latlng": [
+      46,
+      25
+    ],
+    "name": "Romania",
+    "region": "Europe",
+    "subregion": "Eastern Europe"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3119"
+    },
+    "area": 26338,
+    "borders": [
+      "BDI",
+      "COD",
+      "TZA",
+      "UGA"
+    ],
+    "capital": "Kigali",
+    "currency": [
+      "RWF"
+    ],
+    "demonym": "Rwandan",
+    "languages": {
+      "eng": "English",
+      "fra": "French",
+      "kin": "Kinyarwanda"
+    },
+    "latlng": [
+      -2,
+      30
+    ],
+    "name": "Republic of Rwanda",
+    "region": "Africa",
+    "subregion": "Eastern Africa"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc311a"
+    },
+    "area": 17098242,
+    "borders": [
+      "AZE",
+      "BLR",
+      "CHN",
+      "EST",
+      "FIN",
+      "GEO",
+      "KAZ",
+      "PRK",
+      "LVA",
+      "LTU",
+      "MNG",
+      "NOR",
+      "POL",
+      "UKR"
+    ],
+    "capital": "Moscow",
+    "currency": [
+      "RUB"
+    ],
+    "demonym": "Russian",
+    "languages": {
+      "rus": "Russian"
+    },
+    "latlng": [
+      60,
+      100
+    ],
+    "name": "Russian Federation",
+    "region": "Europe",
+    "subregion": "Eastern Europe"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc311b"
+    },
+    "area": 323802,
+    "borders": [
+      "FIN",
+      "SWE",
+      "RUS"
+    ],
+    "capital": "Oslo",
+    "currency": [
+      "NOK"
+    ],
+    "demonym": "Norwegian",
+    "languages": {
+      "nno": "Norwegian Nynorsk",
+      "nob": "Norwegian Bokmål",
+      "smi": "Sami"
+    },
+    "latlng": [
+      62,
+      10
+    ],
+    "name": "Kingdom of Norway",
+    "region": "Europe",
+    "subregion": "Northern Europe"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc311c"
+    },
+    "area": 2.14969E+6,
+    "borders": [
+      "IRQ",
+      "JOR",
+      "KWT",
+      "OMN",
+      "QAT",
+      "ARE",
+      "YEM"
+    ],
+    "capital": "Riyadh",
+    "currency": [
+      "SAR"
+    ],
+    "demonym": "Saudi Arabian",
+    "languages": {
+      "ara": "Arabic"
+    },
+    "latlng": [
+      25,
+      45
+    ],
+    "name": "Kingdom of Saudi Arabia",
+    "region": "Asia",
+    "subregion": "Western Asia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc311d"
+    },
+    "area": 1886068,
+    "borders": [
+      "CAF",
+      "TCD",
+      "EGY",
+      "ERI",
+      "ETH",
+      "LBY",
+      "SSD"
+    ],
+    "capital": "Khartoum",
+    "currency": [
+      "SDG"
+    ],
+    "demonym": "Sudanese",
+    "languages": {
+      "ara": "Arabic",
+      "eng": "English"
+    },
+    "latlng": [
+      15,
+      30
+    ],
+    "name": "Republic of the Sudan",
+    "region": "Africa",
+    "subregion": "Northern Africa"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc311e"
+    },
+    "area": 710,
+    "borders": [],
+    "capital": "Singapore",
+    "currency": [
+      "SGD"
+    ],
+    "demonym": "Singaporean",
+    "languages": {
+      "cmn": "Mandarin",
+      "eng": "English",
+      "msa": "Malay",
+      "tam": "Tamil"
+    },
+    "latlng": [
+      1.36666666,
+      103.8
+    ],
+    "name": "Republic of Singapore",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc311f"
+    },
+    "area": 196722,
+    "borders": [
+      "GMB",
+      "GIN",
+      "GNB",
+      "MLI",
+      "MRT"
+    ],
+    "capital": "Dakar",
+    "currency": [
+      "XOF"
+    ],
+    "demonym": "Senegalese",
+    "languages": {
+      "fra": "French"
+    },
+    "latlng": [
+      14,
+      -14
+    ],
+    "name": "Republic of Senegal",
+    "region": "Africa",
+    "subregion": "Western Africa"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3120"
+    },
+    "area": 3903,
+    "borders": [],
+    "capital": "King Edward Point",
+    "currency": [
+      "GBP"
+    ],
+    "demonym": "South Georgian South Sandwich Islander",
+    "languages": {
+      "eng": "English"
+    },
+    "latlng": [
+      -54.5,
+      -37
+    ],
+    "name": "South Georgia and the South Sandwich Islands",
+    "region": "Americas",
+    "subregion": "South America"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3121"
+    },
+    "area": -1,
+    "borders": [],
+    "capital": "Longyearbyen",
+    "currency": [
+      "NOK"
+    ],
+    "demonym": "Norwegian",
+    "languages": {
+      "nor": "Norwegian"
+    },
+    "latlng": [
+      78,
+      20
+    ],
+    "name": "Svalbard og Jan Mayen",
+    "region": "Europe",
+    "subregion": "Northern Europe"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3122"
+    },
+    "area": 28896,
+    "borders": [],
+    "capital": "Honiara",
+    "currency": [
+      "SBD"
+    ],
+    "demonym": "Solomon Islander",
+    "languages": {
+      "eng": "English"
+    },
+    "latlng": [
+      -8,
+      159
+    ],
+    "name": "Solomon Islands",
+    "region": "Oceania",
+    "subregion": "Melanesia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3123"
+    },
+    "area": 71740,
+    "borders": [
+      "GIN",
+      "LBR"
+    ],
+    "capital": "Freetown",
+    "currency": [
+      "SLL"
+    ],
+    "demonym": "Sierra Leonean",
+    "languages": {
+      "eng": "English"
+    },
+    "latlng": [
+      8.5,
+      -11.5
+    ],
+    "name": "Republic of Sierra Leone",
+    "region": "Africa",
+    "subregion": "Western Africa"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3124"
+    },
+    "area": 21041,
+    "borders": [
+      "GTM",
+      "HND"
+    ],
+    "capital": "San Salvador",
+    "currency": [
+      "SVC",
+      "USD"
+    ],
+    "demonym": "Salvadoran",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "latlng": [
+      13.83333333,
+      -88.91666666
+    ],
+    "name": "Republic of El Salvador",
+    "region": "Americas",
+    "subregion": "Central America"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3125"
+    },
+    "area": 61,
+    "borders": [
+      "ITA"
+    ],
+    "capital": "City of San Marino",
+    "currency": [
+      "EUR"
+    ],
+    "demonym": "Sammarinese",
+    "languages": {
+      "ita": "Italian"
+    },
+    "latlng": [
+      43.76666666,
+      12.41666666
+    ],
+    "name": "Most Serene Republic of San Marino",
+    "region": "Europe",
+    "subregion": "Southern Europe"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3126"
+    },
+    "area": 637657,
+    "borders": [
+      "DJI",
+      "ETH",
+      "KEN"
+    ],
+    "capital": "Mogadishu",
+    "currency": [
+      "SOS"
+    ],
+    "demonym": "Somali",
+    "languages": {
+      "ara": "Arabic",
+      "som": "Somali"
+    },
+    "latlng": [
+      10,
+      49
+    ],
+    "name": "Federal Republic of Somalia",
+    "region": "Africa",
+    "subregion": "Eastern Africa"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3127"
+    },
+    "area": 242,
+    "borders": [],
+    "capital": "Saint-Pierre",
+    "currency": [
+      "EUR"
+    ],
+    "demonym": "French",
+    "languages": {
+      "fra": "French"
+    },
+    "latlng": [
+      46.83333333,
+      -56.33333333
+    ],
+    "name": "Saint Pierre and Miquelon",
+    "region": "Americas",
+    "subregion": "Northern America"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3128"
+    },
+    "area": 88361,
+    "borders": [
+      "BIH",
+      "BGR",
+      "HRV",
+      "HUN",
+      "KOS",
+      "MKD",
+      "MNE",
+      "ROU"
+    ],
+    "capital": "Belgrade",
+    "currency": [
+      "RSD"
+    ],
+    "demonym": "Serbian",
+    "languages": {
+      "srp": "Serbian"
+    },
+    "latlng": [
+      44,
+      21
+    ],
+    "name": "Republic of Serbia",
+    "region": "Europe",
+    "subregion": "Southern Europe"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3129"
+    },
+    "area": 619745,
+    "borders": [
+      "CAF",
+      "COD",
+      "ETH",
+      "KEN",
+      "SDN",
+      "UGA"
+    ],
+    "capital": "Juba",
+    "currency": [
+      "SSP"
+    ],
+    "demonym": "South Sudanese",
+    "languages": {
+      "eng": "English"
+    },
+    "latlng": [
+      7,
+      30
+    ],
+    "name": "Republic of South Sudan",
+    "region": "Africa",
+    "subregion": "Middle Africa"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc312a"
+    },
+    "area": 964,
+    "borders": [],
+    "capital": "São Tomé",
+    "currency": [
+      "STD"
+    ],
+    "demonym": "Sao Tomean",
+    "languages": {
+      "por": "Portuguese"
+    },
+    "latlng": [
+      1,
+      7
+    ],
+    "name": "Democratic Republic of São Tomé and Príncipe",
+    "region": "Africa",
+    "subregion": "Middle Africa"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc312b"
+    },
+    "area": 49037,
+    "borders": [
+      "AUT",
+      "CZE",
+      "HUN",
+      "POL",
+      "UKR"
+    ],
+    "capital": "Bratislava",
+    "currency": [
+      "EUR"
+    ],
+    "demonym": "Slovak",
+    "languages": {
+      "slk": "Slovak"
+    },
+    "latlng": [
+      48.66666666,
+      19.5
+    ],
+    "name": "Slovak Republic",
+    "region": "Europe",
+    "subregion": "Eastern Europe"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc312c"
+    },
+    "area": 450295,
+    "borders": [
+      "FIN",
+      "NOR"
+    ],
+    "capital": "Stockholm",
+    "currency": [
+      "SEK"
+    ],
+    "demonym": "Swedish",
+    "languages": {
+      "swe": "Swedish"
+    },
+    "latlng": [
+      62,
+      15
+    ],
+    "name": "Kingdom of Sweden",
+    "region": "Europe",
+    "subregion": "Northern Europe"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc312d"
+    },
+    "area": 34,
+    "borders": [
+      "MAF"
+    ],
+    "capital": "Philipsburg",
+    "currency": [
+      "ANG"
+    ],
+    "demonym": "St. Maartener",
+    "languages": {
+      "eng": "English",
+      "fra": "French",
+      "nld": "Dutch"
+    },
+    "latlng": [
+      18.033333,
+      -63.05
+    ],
+    "name": "Sint Maarten",
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc312e"
+    },
+    "area": 185180,
+    "borders": [
+      "IRQ",
+      "ISR",
+      "JOR",
+      "LBN",
+      "TUR"
+    ],
+    "capital": "Damascus",
+    "currency": [
+      "SYP"
+    ],
+    "demonym": "Syrian",
+    "languages": {
+      "ara": "Arabic"
+    },
+    "latlng": [
+      35,
+      38
+    ],
+    "name": "Syrian Arab Republic",
+    "region": "Asia",
+    "subregion": "Western Asia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc312f"
+    },
+    "area": 452,
+    "borders": [],
+    "capital": "Victoria",
+    "currency": [
+      "SCR"
+    ],
+    "demonym": "Seychellois",
+    "languages": {
+      "crs": "Seychellois Creole",
+      "eng": "English",
+      "fra": "French"
+    },
+    "latlng": [
+      -4.58333333,
+      55.66666666
+    ],
+    "name": "Republic of Seychelles",
+    "region": "Africa",
+    "subregion": "Eastern Africa"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3130"
+    },
+    "area": 948,
+    "borders": [],
+    "capital": "Cockburn Town",
+    "currency": [
+      "USD"
+    ],
+    "demonym": "Turks and Caicos Islander",
+    "languages": {
+      "eng": "English"
+    },
+    "latlng": [
+      21.75,
+      -71.58333333
+    ],
+    "name": "Turks and Caicos Islands",
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3131"
+    },
+    "area": 1.284E+6,
+    "borders": [
+      "CMR",
+      "CAF",
+      "LBY",
+      "NER",
+      "NGA",
+      "SSD"
+    ],
+    "capital": "N'Djamena",
+    "currency": [
+      "XAF"
+    ],
+    "demonym": "Chadian",
+    "languages": {
+      "ara": "Arabic",
+      "fra": "French"
+    },
+    "latlng": [
+      15,
+      19
+    ],
+    "name": "Republic of Chad",
+    "region": "Africa",
+    "subregion": "Middle Africa"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3132"
+    },
+    "area": 56785,
+    "borders": [
+      "BEN",
+      "BFA",
+      "GHA"
+    ],
+    "capital": "Lomé",
+    "currency": [
+      "XOF"
+    ],
+    "demonym": "Togolese",
+    "languages": {
+      "fra": "French"
+    },
+    "latlng": [
+      8,
+      1.16666666
+    ],
+    "name": "Togolese Republic",
+    "region": "Africa",
+    "subregion": "Western Africa"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3133"
+    },
+    "area": 513120,
+    "borders": [
+      "MMR",
+      "KHM",
+      "LAO",
+      "MYS"
+    ],
+    "capital": "Bangkok",
+    "currency": [
+      "THB"
+    ],
+    "demonym": "Thai",
+    "languages": {
+      "tha": "Thai"
+    },
+    "latlng": [
+      15,
+      100
+    ],
+    "name": "Kingdom of Thailand",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3134"
+    },
+    "area": 17364,
+    "borders": [
+      "MOZ",
+      "ZAF"
+    ],
+    "capital": "Lobamba",
+    "currency": [
+      "SZL"
+    ],
+    "demonym": "Swazi",
+    "languages": {
+      "eng": "English",
+      "ssw": "Swazi"
+    },
+    "latlng": [
+      -26.5,
+      31.5
+    ],
+    "name": "Kingdom of Swaziland",
+    "region": "Africa",
+    "subregion": "Southern Africa"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3135"
+    },
+    "area": 12,
+    "borders": [],
+    "capital": "Fakaofo",
+    "currency": [
+      "NZD"
+    ],
+    "demonym": "Tokelauan",
+    "languages": {
+      "eng": "English",
+      "smo": "Samoan",
+      "tkl": "Tokelauan"
+    },
+    "latlng": [
+      -9,
+      -172
+    ],
+    "name": "Tokelau",
+    "region": "Oceania",
+    "subregion": "Polynesia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3136"
+    },
+    "area": 143100,
+    "borders": [
+      "AFG",
+      "CHN",
+      "KGZ",
+      "UZB"
+    ],
+    "capital": "Dushanbe",
+    "currency": [
+      "TJS"
+    ],
+    "demonym": "Tadzhik",
+    "languages": {
+      "rus": "Russian",
+      "tgk": "Tajik"
+    },
+    "latlng": [
+      39,
+      71
+    ],
+    "name": "Republic of Tajikistan",
+    "region": "Asia",
+    "subregion": "Central Asia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3137"
+    },
+    "area": 488100,
+    "borders": [
+      "AFG",
+      "IRN",
+      "KAZ",
+      "UZB"
+    ],
+    "capital": "Ashgabat",
+    "currency": [
+      "TMT"
+    ],
+    "demonym": "Turkmen",
+    "languages": {
+      "rus": "Russian",
+      "tuk": "Turkmen"
+    },
+    "latlng": [
+      40,
+      60
+    ],
+    "name": "Turkmenistan",
+    "region": "Asia",
+    "subregion": "Central Asia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3138"
+    },
+    "area": 747,
+    "borders": [],
+    "capital": "Nuku'alofa",
+    "currency": [
+      "TOP"
+    ],
+    "demonym": "Tongan",
+    "languages": {
+      "eng": "English",
+      "ton": "Tongan"
+    },
+    "latlng": [
+      -20,
+      -175
+    ],
+    "name": "Kingdom of Tonga",
+    "region": "Oceania",
+    "subregion": "Polynesia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3139"
+    },
+    "area": 14874,
+    "borders": [
+      "IDN"
+    ],
+    "capital": "Dili",
+    "currency": [
+      "USD"
+    ],
+    "demonym": "East Timorese",
+    "languages": {
+      "por": "Portuguese",
+      "tet": "Tetum"
+    },
+    "latlng": [
+      -8.83333333,
+      125.91666666
+    ],
+    "name": "Democratic Republic of Timor-Leste",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc313a"
+    },
+    "area": 783562,
+    "borders": [
+      "ARM",
+      "AZE",
+      "BGR",
+      "GEO",
+      "GRC",
+      "IRN",
+      "IRQ",
+      "SYR"
+    ],
+    "capital": "Ankara",
+    "currency": [
+      "TRY"
+    ],
+    "demonym": "Turkish",
+    "languages": {
+      "tur": "Turkish"
+    },
+    "latlng": [
+      39,
+      35
+    ],
+    "name": "Republic of Turkey",
+    "region": "Asia",
+    "subregion": "Western Asia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc313b"
+    },
+    "area": 163610,
+    "borders": [
+      "DZA",
+      "LBY"
+    ],
+    "capital": "Tunis",
+    "currency": [
+      "TND"
+    ],
+    "demonym": "Tunisian",
+    "languages": {
+      "ara": "Arabic"
+    },
+    "latlng": [
+      34,
+      9
+    ],
+    "name": "Tunisian Republic",
+    "region": "Africa",
+    "subregion": "Northern Africa"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc313c"
+    },
+    "area": 26,
+    "borders": [],
+    "capital": "Funafuti",
+    "currency": [
+      "AUD"
+    ],
+    "demonym": "Tuvaluan",
+    "languages": {
+      "eng": "English",
+      "tvl": "Tuvaluan"
+    },
+    "latlng": [
+      -8,
+      178
+    ],
+    "name": "Tuvalu",
+    "region": "Oceania",
+    "subregion": "Polynesia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc313d"
+    },
+    "area": 36193,
+    "borders": [],
+    "capital": "Taipei",
+    "currency": [
+      "TWD"
+    ],
+    "demonym": "Taiwanese",
+    "languages": {
+      "cmn": "Mandarin"
+    },
+    "latlng": [
+      23.5,
+      121
+    ],
+    "name": "Republic of China",
+    "region": "Asia",
+    "subregion": "Eastern Asia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc313e"
+    },
+    "area": 945087,
+    "borders": [
+      "BDI",
+      "COD",
+      "KEN",
+      "MWI",
+      "MOZ",
+      "RWA",
+      "UGA",
+      "ZMB"
+    ],
+    "capital": "Dodoma",
+    "currency": [
+      "TZS"
+    ],
+    "demonym": "Tanzanian",
+    "languages": {
+      "eng": "English",
+      "swa": "Swahili"
+    },
+    "latlng": [
+      -6,
+      35
+    ],
+    "name": "United Republic of Tanzania",
+    "region": "Africa",
+    "subregion": "Eastern Africa"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc313f"
+    },
+    "area": 241550,
+    "borders": [
+      "COD",
+      "KEN",
+      "RWA",
+      "SSD",
+      "TZA"
+    ],
+    "capital": "Kampala",
+    "currency": [
+      "UGX"
+    ],
+    "demonym": "Ugandan",
+    "languages": {
+      "eng": "English",
+      "swa": "Swahili"
+    },
+    "latlng": [
+      1,
+      32
+    ],
+    "name": "Republic of Uganda",
+    "region": "Africa",
+    "subregion": "Eastern Africa"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3140"
+    },
+    "area": 603500,
+    "borders": [
+      "BLR",
+      "HUN",
+      "MDA",
+      "POL",
+      "ROU",
+      "RUS",
+      "SVK"
+    ],
+    "capital": "Kiev",
+    "currency": [
+      "UAH"
+    ],
+    "demonym": "Ukrainian",
+    "languages": {
+      "rus": "Russian",
+      "ukr": "Ukrainian"
+    },
+    "latlng": [
+      49,
+      32
+    ],
+    "name": "Ukraine",
+    "region": "Europe",
+    "subregion": "Eastern Europe"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3141"
+    },
+    "area": 34.2,
+    "borders": [],
+    "capital": "",
+    "currency": [
+      "USD"
+    ],
+    "demonym": "American",
+    "languages": {
+      "eng": "English"
+    },
+    "latlng": [],
+    "name": "United States Minor Outlying Islands",
+    "region": "Americas",
+    "subregion": "Northern America"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3142"
+    },
+    "area": 20273,
+    "borders": [
+      "AUT",
+      "HRV",
+      "ITA",
+      "HUN"
+    ],
+    "capital": "Ljubljana",
+    "currency": [
+      "EUR"
+    ],
+    "demonym": "Slovene",
+    "languages": {
+      "slv": "Slovene"
+    },
+    "latlng": [
+      46.11666666,
+      14.81666666
+    ],
+    "name": "Republic of Slovenia",
+    "region": "Europe",
+    "subregion": "Southern Europe"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3143"
+    },
+    "area": 163820,
+    "borders": [
+      "BRA",
+      "GUF",
+      "GUY"
+    ],
+    "capital": "Paramaribo",
+    "currency": [
+      "SRD"
+    ],
+    "demonym": "Surinamer",
+    "languages": {
+      "nld": "Dutch"
+    },
+    "latlng": [
+      4,
+      -56
+    ],
+    "name": "Republic of Suriname",
+    "region": "Americas",
+    "subregion": "South America"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3144"
+    },
+    "area": 21,
+    "borders": [],
+    "capital": "Yaren",
+    "currency": [
+      "AUD"
+    ],
+    "demonym": "Nauruan",
+    "languages": {
+      "eng": "English",
+      "nau": "Nauru"
+    },
+    "latlng": [
+      -0.53333333,
+      166.91666666
+    ],
+    "name": "Republic of Nauru",
+    "region": "Oceania",
+    "subregion": "Micronesia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3145"
+    },
+    "area": 389,
+    "borders": [],
+    "capital": "Kingstown",
+    "currency": [
+      "XCD"
+    ],
+    "demonym": "Saint Vincentian",
+    "languages": {
+      "eng": "English"
+    },
+    "latlng": [
+      13.25,
+      -61.2
+    ],
+    "name": "Saint Vincent and the Grenadines",
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3146"
+    },
+    "area": 916445,
+    "borders": [
+      "BRA",
+      "COL",
+      "GUY"
+    ],
+    "capital": "Caracas",
+    "currency": [
+      "VEF"
+    ],
+    "demonym": "Venezuelan",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "latlng": [
+      8,
+      -66
+    ],
+    "name": "Bolivarian Republic of Venezuela",
+    "region": "Americas",
+    "subregion": "South America"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3147"
+    },
+    "area": 151,
+    "borders": [],
+    "capital": "Road Town",
+    "currency": [
+      "USD"
+    ],
+    "demonym": "Virgin Islander",
+    "languages": {
+      "eng": "English"
+    },
+    "latlng": [
+      18.431383,
+      -64.62305
+    ],
+    "name": "Virgin Islands",
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3148"
+    },
+    "area": 347,
+    "borders": [],
+    "capital": "Charlotte Amalie",
+    "currency": [
+      "USD"
+    ],
+    "demonym": "Virgin Islander",
+    "languages": {
+      "eng": "English"
+    },
+    "latlng": [
+      18.35,
+      -64.933333
+    ],
+    "name": "Virgin Islands of the United States",
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3149"
+    },
+    "area": 331212,
+    "borders": [
+      "KHM",
+      "CHN",
+      "LAO"
+    ],
+    "capital": "Hanoi",
+    "currency": [
+      "VND"
+    ],
+    "demonym": "Vietnamese",
+    "languages": {
+      "vie": "Vietnamese"
+    },
+    "latlng": [
+      16.16666666,
+      107.83333333
+    ],
+    "name": "Socialist Republic of Vietnam",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc314a"
+    },
+    "area": 12189,
+    "borders": [],
+    "capital": "Port Vila",
+    "currency": [
+      "VUV"
+    ],
+    "demonym": "Ni-Vanuatu",
+    "languages": {
+      "bis": "Bislama",
+      "eng": "English",
+      "fra": "French"
+    },
+    "latlng": [
+      -16,
+      167
+    ],
+    "name": "Republic of Vanuatu",
+    "region": "Oceania",
+    "subregion": "Melanesia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc314b"
+    },
+    "area": 181034,
+    "borders": [
+      "ARG",
+      "BRA"
+    ],
+    "capital": "Montevideo",
+    "currency": [
+      "UYI",
+      "UYU"
+    ],
+    "demonym": "Uruguayan",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "latlng": [
+      -33,
+      -56
+    ],
+    "name": "Oriental Republic of Uruguay",
+    "region": "Americas",
+    "subregion": "South America"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc314c"
+    },
+    "area": 1221037,
+    "borders": [
+      "BWA",
+      "LSO",
+      "MOZ",
+      "NAM",
+      "SWZ",
+      "ZWE"
+    ],
+    "capital": "Pretoria",
+    "currency": [
+      "ZAR"
+    ],
+    "demonym": "South African",
+    "languages": {
+      "afr": "Afrikaans",
+      "eng": "English",
+      "nbl": "Southern Ndebele",
+      "nso": "Northern Sotho",
+      "sot": "Southern Sotho",
+      "ssw": "Swazi",
+      "tsn": "Tswana",
+      "tso": "Tsonga",
+      "ven": "Venda",
+      "xho": "Xhosa",
+      "zul": "Zulu"
+    },
+    "latlng": [
+      -29,
+      24
+    ],
+    "name": "Republic of South Africa",
+    "region": "Africa",
+    "subregion": "Southern Africa"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc314d"
+    },
+    "area": 752612,
+    "borders": [
+      "AGO",
+      "BWA",
+      "COD",
+      "MWI",
+      "MOZ",
+      "NAM",
+      "TZA",
+      "ZWE"
+    ],
+    "capital": "Lusaka",
+    "currency": [
+      "ZMW"
+    ],
+    "demonym": "Zambian",
+    "languages": {
+      "eng": "English"
+    },
+    "latlng": [
+      -15,
+      30
+    ],
+    "name": "Republic of Zambia",
+    "region": "Africa",
+    "subregion": "Eastern Africa"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc314e"
+    },
+    "area": 390757,
+    "borders": [
+      "BWA",
+      "MOZ",
+      "ZAF",
+      "ZMB"
+    ],
+    "capital": "Harare",
+    "currency": [
+      "ZWL"
+    ],
+    "demonym": "Zimbabwean",
+    "languages": {
+      "bwg": "Chibarwe",
+      "eng": "English",
+      "kck": "Kalanga",
+      "khi": "Khoisan",
+      "ndc": "Ndau",
+      "nde": "Northern Ndebele",
+      "nya": "Chewa",
+      "sna": "Shona",
+      "sot": "Sotho",
+      "toi": "Tonga",
+      "tsn": "Tswana",
+      "tso": "Tsonga",
+      "ven": "Venda",
+      "xho": "Xhosa",
+      "zib": "Zimbabwean Sign Language"
+    },
+    "latlng": [
+      -20,
+      30
+    ],
+    "name": "Republic of Zimbabwe",
+    "region": "Africa",
+    "subregion": "Eastern Africa"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc314f"
+    },
+    "area": 5130,
+    "borders": [],
+    "capital": "Port of Spain",
+    "currency": [
+      "TTD"
+    ],
+    "demonym": "Trinidadian",
+    "languages": {
+      "eng": "English"
+    },
+    "latlng": [
+      11,
+      -61
+    ],
+    "name": "Republic of Trinidad and Tobago",
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3150"
+    },
+    "area": 142,
+    "borders": [],
+    "capital": "Mata-Utu",
+    "currency": [
+      "XPF"
+    ],
+    "demonym": "Wallis and Futuna Islander",
+    "languages": {
+      "fra": "French"
+    },
+    "latlng": [
+      -13.3,
+      -176.2
+    ],
+    "name": "Territory of the Wallis and Futuna Islands",
+    "region": "Oceania",
+    "subregion": "Polynesia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3151"
+    },
+    "area": 2842,
+    "borders": [],
+    "capital": "Apia",
+    "currency": [
+      "WST"
+    ],
+    "demonym": "Samoan",
+    "languages": {
+      "eng": "English",
+      "smo": "Samoan"
+    },
+    "latlng": [
+      -13.58333333,
+      -172.33333333
+    ],
+    "name": "Independent State of Samoa",
+    "region": "Oceania",
+    "subregion": "Polynesia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3152"
+    },
+    "area": 527968,
+    "borders": [
+      "OMN",
+      "SAU"
+    ],
+    "capital": "Sana'a",
+    "currency": [
+      "YER"
+    ],
+    "demonym": "Yemeni",
+    "languages": {
+      "ara": "Arabic"
+    },
+    "latlng": [
+      15,
+      48
+    ],
+    "name": "Republic of Yemen",
+    "region": "Asia",
+    "subregion": "Western Asia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3153"
+    },
+    "area": 9.37261E+6,
+    "borders": [
+      "CAN",
+      "MEX"
+    ],
+    "capital": "Washington D.C.",
+    "currency": [
+      "USD",
+      "USN",
+      "USS"
+    ],
+    "demonym": "American",
+    "languages": {
+      "eng": "English"
+    },
+    "latlng": [
+      38,
+      -97
+    ],
+    "name": "United States of America",
+    "region": "Americas",
+    "subregion": "Northern America"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3154"
+    },
+    "area": 447400,
+    "borders": [
+      "AFG",
+      "KAZ",
+      "KGZ",
+      "TJK",
+      "TKM"
+    ],
+    "capital": "Tashkent",
+    "currency": [
+      "UZS"
+    ],
+    "demonym": "Uzbekistani",
+    "languages": {
+      "rus": "Russian",
+      "uzb": "Uzbek"
+    },
+    "latlng": [
+      41,
+      64
+    ],
+    "name": "Republic of Uzbekistan",
+    "region": "Asia",
+    "subregion": "Central Asia"
+  },
+  {
+    "_id": {
+      "$oid": "55a0f42f20a4d760b5fc3155"
+    },
+    "area": 0.44,
+    "borders": [
+      "ITA"
+    ],
+    "capital": "Vatican City",
+    "currency": [
+      "EUR"
+    ],
+    "demonym": "Italian",
+    "languages": {
+      "ita": "Italian",
+      "lat": "Latin"
+    },
+    "latlng": [
+      41.9,
+      12.45
+    ],
+    "name": "Vatican City State",
+    "region": "Europe",
+    "subregion": "Southern Europe"
+  }
+]
