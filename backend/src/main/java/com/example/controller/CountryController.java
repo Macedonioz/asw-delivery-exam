@@ -36,4 +36,15 @@ public class CountryController {
     public ResponseEntity<List<Country>> find(@RequestParam String name) {
         return ResponseEntity.ok(countryService.findByName(name));
     }
+
+    @PutMapping("/{id}")
+    public ResponseEntity<Country> update(@PathVariable String id, @RequestBody Country details) {
+        return ResponseEntity.ok(countryService.update(id, details));
+    }
+
+    @DeleteMapping("/{id}")
+    public ResponseEntity<Void> delete(@PathVariable String id) {
+        countryService.delete(id);
+        return ResponseEntity.noContent().build();
+    }
 }
