@@ -16,13 +16,15 @@ public class CountryService {
         this.countryRepository = countryRepository;
     }
 
-    public List<Country> getAllCountries() {
+    public List<Country> findAll() {
         return countryRepository.findAll();
     }
 
-    // TODOthrow exceptions when they occur
-
-    public Country saveCountry(Country country) {
+    public Country save(Country country) {
         return countryRepository.save(country);
+    }
+
+    public List<Country> findByName(String name) {
+        return countryRepository.findByNameContainingIgnoreCase(name);
     }
 }

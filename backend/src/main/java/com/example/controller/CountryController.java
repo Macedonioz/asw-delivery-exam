@@ -4,6 +4,7 @@ import com.example.model.Country;
 import com.example.service.CountryService;
 
 import org.springframework.web.bind.annotation.*;
+import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 
 import java.util.List;
@@ -14,20 +15,25 @@ import java.util.List;
 @RequestMapping("/api/countries")
 @CrossOrigin(origins = "*")                     // TODOmodify URL to match frontend
 public class CountryController {
-    private final CountryService countryService;
+   private final CountryService countryService;
 
     public CountryController(CountryService countryService) {
-        this.countryService = countryService;                   // Constructor Injection
+        this.countryService = countryService;
     }
 
     @GetMapping
-    public ResponseEntity<List<Country>> getAllCountries() {
-        return ResponseEntity.ok(countryService.getAllCountries());
+    public ResponseEntity<List<Country>> findAll() {
+        return ResponseEntity.ok(countryService.findAll());
     }
 
     @PostMapping
-    public ResponseEntity<Country> createCountry(@RequestBody Country country) {
-        Country savedCountry = countryService.saveCountry(country);
-        return ResponseEntity.status(201).body(savedCountry);
+    public ResponseEntity<Country> create(@RequestBody Country country) {
+        Country saved = countryService.save(country);
+        return ResponseEntity.status(HttpStatus.CREATED).body(saved);
+    }
+
+    @GetMapping("/search")
+    public ResponseEntity<List<Country>> find(@RequestParam String name) {
+        return ResponseEntity.ok(countryService.findByName(name));
     }
 }

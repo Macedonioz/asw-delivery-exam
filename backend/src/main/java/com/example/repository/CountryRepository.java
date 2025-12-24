@@ -3,6 +3,9 @@ package com.example.repository;
 import com.example.model.Country;
 
 import org.springframework.stereotype.Repository;
+
+import java.util.List;
+
 import org.springframework.data.mongodb.repository.MongoRepository;
 
 /**
@@ -14,4 +17,6 @@ import org.springframework.data.mongodb.repository.MongoRepository;
  */
 @Repository
 public interface CountryRepository extends MongoRepository<Country, String> {
+
+    List<Country> findByNameContainingIgnoreCase(String name);
 }
