@@ -9,8 +9,6 @@ import org.springframework.http.ResponseEntity;
 
 import java.util.List;
 
-// TODOadd Global Exception handler @RestControllerAdvice, @valid tag as well
-
 @RestController
 @RequestMapping("/api/countries")
 @CrossOrigin(origins = "*")                     // TODOmodify URL to match frontend
@@ -26,15 +24,20 @@ public class CountryController {
         return ResponseEntity.ok(countryService.findAll());
     }
 
-    @PostMapping
-    public ResponseEntity<Country> create(@RequestBody Country country) {
-        Country saved = countryService.save(country);
-        return ResponseEntity.status(HttpStatus.CREATED).body(saved);
+    @GetMapping("/{id}")
+    public ResponseEntity<Country> findById(@PathVariable String id) {
+        return ResponseEntity.ok(countryService.findById(id));
     }
 
     @GetMapping("/search")
     public ResponseEntity<List<Country>> find(@RequestParam String name) {
         return ResponseEntity.ok(countryService.findByName(name));
+    }
+
+    @PostMapping
+    public ResponseEntity<Country> create(@RequestBody Country country) {
+        Country saved = countryService.save(country);
+        return ResponseEntity.status(HttpStatus.CREATED).body(saved);
     }
 
     @PutMapping("/{id}")

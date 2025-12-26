@@ -20,12 +20,17 @@ public class CountryService {
         return countryRepository.findAll();
     }
 
-    public Country save(Country country) {
-        return countryRepository.save(country);
+    public Country findById(String id) {
+        return countryRepository.findById(id)
+        .orElseThrow(() -> new RuntimeException("Country not found with id: " + id));
     }
 
     public List<Country> findByName(String name) {
         return countryRepository.findByNameContainingIgnoreCase(name);
+    }
+
+    public Country save(Country country) {
+        return countryRepository.save(country);
     }
 
     public Country update(String id, Country details) {
