@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import styles from './CountryRow.module.css';
 
 function CountryRow({ country, onEdit, onDelete }) {
     const [isExpanded, setIsExpanded] = useState(false);
@@ -22,21 +23,23 @@ function CountryRow({ country, onEdit, onDelete }) {
 
     return (
         <React.Fragment>
-            <tr>
+            <tr className={styles.row}>
                 {/* Toggles expansion state to reveal more details */}
-                <td onClick={() => setIsExpanded(!isExpanded)} style={{ cursor: 'pointer' }}>
+                <td className={`${styles.cell} ${styles.expandable}`} onClick={() => setIsExpanded(!isExpanded)}>
                     {country.name} {isExpanded ? '▼' : '▶'}
                 </td>
-                <td>{country.region}</td>
-                <td>
-                    <button onClick={() => onEdit(country)}>✎</button>
-                    <button onClick={() => onDelete(country.id)}>🗑</button>
+                <td className={styles.cell}>{country.region}</td>
+                <td className={styles.cell}>
+                    <div className={styles.actions}>
+                        <button onClick={() => onEdit(country)}>✎</button>
+                        <button onClick={() => onDelete(country.id)}>🗑</button>
+                    </div>
                 </td>
             </tr>
             {isExpanded && (
                 <tr>
-                    <td colSpan="3" style={{ background: '#fafafa', padding: '15px' }}>
-                        <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr' }}>
+                    <td colSpan="3">
+                        <div className={styles.details}>
                             <p><strong>Capital:</strong> {display.capital}</p>
                             <p><strong>Subregion:</strong> {display.subregion}</p>
                             <p><strong>Area:</strong> {display.area} km²</p>

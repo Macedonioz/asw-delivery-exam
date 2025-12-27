@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import styles from './SearchBar.module.css';
 
 function SearchBar({ onSearch }) {
     const [term, setTerm] = useState("");
@@ -9,15 +10,15 @@ function SearchBar({ onSearch }) {
     };
 
     return (
-        <form className="search-bar" onSubmit={handleSubmit} style={{ display: 'flex', gap: '10px', margin: '20px 0' }}>
-            <input 
+        <form className={styles.searchBar} onSubmit={handleSubmit}>
+            <input
+                className={styles.input}
                 type="text" 
                 placeholder="Search by name..." 
                 value={term}
                 onChange={(e) => setTerm(e.target.value)}
-                style={{ flex: 1, padding: '8px' }}
             />
-            <button type="submit">Search</button>
+            <button className={styles.button} type="submit">Search</button>
         </form>
     );
 }

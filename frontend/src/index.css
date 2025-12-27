@@ -1,0 +1,27 @@
+:root {
+  --primary-color: #2563eb;
+  --primary-hover: #1d4ed8;
+  --bg-color: #e2e8f0;
+  --card-bg: #ffffff;
+  --text-main: #0f172a;
+  --text-muted: #475569; 
+  --border-color: #cbd5e1;
+  --row-hover: #f8fafc;
+  --danger: #ef4444;
+  --success: #22c55e;
+}
+
+body {
+  margin: 0;
+  font-family: 'Cascadia Code', system-ui, sans-serif;
+  background-color: var(--bg-color);
+  color: var(--text-main);
+  line-height: 1.5;
+}
+
+button {
+  cursor: pointer;
+  transition: all 0.2s ease;
+  border-radius: 6px;
+  font-weight: 500;
+}

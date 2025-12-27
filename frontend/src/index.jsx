@@ -1,7 +1,7 @@
 import React, { StrictMode } from 'react';
 import { createRoot } from 'react-dom/client';
 import App from './App.jsx';
-// import './index.css';    TODOcss
+import './index.css';
 
 const container = document.getElementById('root');
 

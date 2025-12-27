@@ -1,0 +1,42 @@
+.row {
+  border-bottom: 1px solid var(--border-color);
+  transition: background 0.2s;
+}
+
+.row:hover {
+  background-color: #f8fafc;
+}
+
+.cell {
+  padding: 1rem;
+}
+
+.expandable {
+  cursor: pointer;
+  color: var(--primary-color);
+  font-weight: 500;
+}
+
+.actions {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.details {
+  background-color: #fdfdfd;
+  color: var(--text-muted);
+  padding: 1.5rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.details p {
+  margin: 0;
+  font-size: 0.9rem;
+}
+
+.details strong {
+  color: var(--text-main);
+}

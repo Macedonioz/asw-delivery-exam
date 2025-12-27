@@ -1,0 +1,67 @@
+.formContainer {
+  background: var(--card-bg);
+  background-color: #ffffff;
+  padding: 2.5rem;
+  border-radius: 16px;
+  box-shadow: 
+    0 4px 6px -1px rgba(0, 0, 0, 0.1), 
+    0 20px 25px -5px rgba(0, 0, 0, 0.2);
+  border: 1px solid rgba(0, 0, 0, 0.05);
+  margin: 4rem auto;
+}
+
+.formContainer h3 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--primary-color);
+  margin-top: 0;
+  margin-bottom: 2.5rem;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.05);
+}
+
+.form {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.25rem;
+}
+
+.fullWidth {
+  grid-column: span 2;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.field label {
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: var(--text-muted);
+}
+
+.field input {
+  padding: 0.6rem;
+  border: 1px solid var(--border-color);
+  border-radius: 6px;
+}
+
+.actions {
+  margin-top: 1.5rem;
+  display: flex;
+  gap: 1rem;
+}
+
+.saveButton {
+  background-color: var(--success);
+  color: white;
+  border: none;
+  padding: 0.75rem 1.5rem;
+}
+
+.cancelButton {
+  background: none;
+  border: 1px solid var(--border-color);
+  padding: 0.75rem 1.5rem;
+}

@@ -1,7 +1,8 @@
 import React, { useEffect, useState, useCallback } from 'react'
-import SearchBar from './Components/SearchBar';
-import CountryTable from './Components/CountryTable';
-import CountryForm from './Components/CountryForm.jsx';
+import SearchBar from './Components/SearchBar/SearchBar.jsx';
+import CountryTable from './Components/CountryTable/CountryTable.jsx';
+import CountryForm from './Components/CountryForm/CountryForm.jsx';
+import styles from './App.module.css';
 
 const API_URL = "http://localhost:8080/api/countries"           // TODO change to backend container name (use env var)
 
@@ -57,16 +58,16 @@ function App() {
     };
 
     return (
-        <div className="container" style={{ padding: '20px' }}>
-            <header>
+        <div className={styles.container}>
+            <header className={styles.header}>
                 <h2>Countries CRUD</h2>
             </header>
 
             {/* Conditional rendering based on 'view' state */}
             {view === 'list' ? (
                 <>
-                    <nav>
-                        <button onClick={handleAdd}>Add</button>
+                    <nav className={styles.nav}>
+                        <button className={styles.addButton} onClick={handleAdd}>Add</button>
                     </nav>
                     <SearchBar onSearch={fetchCountries} />
                     <CountryTable 
