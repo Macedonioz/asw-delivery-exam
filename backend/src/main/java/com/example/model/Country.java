@@ -5,12 +5,10 @@ import java.util.Map;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 
-@Document(collection = "countries") // Object-Document Mapping (ODM)
+@Document(collection = "countries")
 public class Country {
 
-  @Id
-  private String
-      id; // SpringBoot automatically maps $oid of mongoDB BSON document (thanks to @Id annotation)
+  @Id private String id;
 
   private double area;
   private List<String> borders;
