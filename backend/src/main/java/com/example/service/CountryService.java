@@ -2,60 +2,61 @@ package com.example.service;
 
 import com.example.model.Country;
 import com.example.repository.CountryRepository;
-
-import org.springframework.stereotype.Service;
-
 import java.util.List;
+import org.springframework.stereotype.Service;
 
 @Service
 public class CountryService {
 
-    private final CountryRepository countryRepository;
+  private final CountryRepository countryRepository;
 
-    public CountryService(CountryRepository countryRepository) {
-        this.countryRepository = countryRepository;
-    }
+  public CountryService(CountryRepository countryRepository) {
+    this.countryRepository = countryRepository;
+  }
 
-    public List<Country> findAll() {
-        return countryRepository.findAll();
-    }
+  public List<Country> findAll() {
+    return countryRepository.findAll();
+  }
 
-    public Country findById(String id) {
-        return countryRepository.findById(id)
+  public Country findById(String id) {
+    return countryRepository
+        .findById(id)
         .orElseThrow(() -> new RuntimeException("Country not found with id: " + id));
-    }
+  }
 
-    public List<Country> findByName(String name) {
-        return countryRepository.findByNameContainingIgnoreCase(name);
-    }
+  public List<Country> findByName(String name) {
+    return countryRepository.findByNameContainingIgnoreCase(name);
+  }
 
-    public Country save(Country country) {
-        return countryRepository.save(country);
-    }
+  public Country save(Country country) {
+    return countryRepository.save(country);
+  }
 
-    public Country update(String id, Country details) {
-    return countryRepository.findById(id)
-        .map(existing -> {                              // Fetch & Map
-            existing.setName(details.getName());
-            existing.setCapital(details.getCapital());
-            existing.setRegion(details.getRegion());
-            existing.setSubregion(details.getSubregion());
-            existing.setDemonym(details.getDemonym());
-            existing.setArea(details.getArea());
-            existing.setBorders(details.getBorders());
-            existing.setCurrency(details.getCurrency());
-            existing.setLatlng(details.getLatlng());
-            existing.setLanguages(details.getLanguages());
-            
-            return countryRepository.save(existing);
-        })
+  public Country update(String id, Country details) {
+    return countryRepository
+        .findById(id)
+        .map(
+            existing -> { // Fetch & Map
+              existing.setName(details.getName());
+              existing.setCapital(details.getCapital());
+              existing.setRegion(details.getRegion());
+              existing.setSubregion(details.getSubregion());
+              existing.setDemonym(details.getDemonym());
+              existing.setArea(details.getArea());
+              existing.setBorders(details.getBorders());
+              existing.setCurrency(details.getCurrency());
+              existing.setLatlng(details.getLatlng());
+              existing.setLanguages(details.getLanguages());
+
+              return countryRepository.save(existing);
+            })
         .orElseThrow(() -> new RuntimeException("Country not found with id: " + id));
-    }
+  }
 
-    public void delete(String id) {
-        if (!countryRepository.existsById(id)) {
-            throw new RuntimeException("Country not found with id: " + id);
-        }
-        countryRepository.deleteById(id);
+  public void delete(String id) {
+    if (!countryRepository.existsById(id)) {
+      throw new RuntimeException("Country not found with id: " + id);
     }
+    countryRepository.deleteById(id);
+  }
 }
