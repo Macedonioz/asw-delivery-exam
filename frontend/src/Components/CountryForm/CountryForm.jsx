@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import styles from './CountryForm.module.css';
 
 const API_URL = "http://localhost:8080/api/countries";

@@ -1,4 +1,4 @@
-import React, { useEffect, useState, useCallback } from 'react'
+import { useEffect, useState, useCallback } from 'react'
 import SearchBar from './Components/SearchBar/SearchBar.jsx';
 import CountryTable from './Components/CountryTable/CountryTable.jsx';
 import CountryForm from './Components/CountryForm/CountryForm.jsx';

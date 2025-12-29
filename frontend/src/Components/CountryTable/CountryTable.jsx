@@ -1,4 +1,3 @@
-import React from 'react';
 import CountryRow from '../CountryRow/CountryRow';
 import styles from './CountryTable.module.css';
 
