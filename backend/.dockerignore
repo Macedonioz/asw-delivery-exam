@@ -1,0 +1,23 @@
+# Build artifacts
+target/
+*.jar
+*.war
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Maven wrapper and local repo
+.mvn/
+mvnw
+mvnw.cmd
+
+# Logs
+*.log
