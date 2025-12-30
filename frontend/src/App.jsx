@@ -4,7 +4,7 @@ import CountryTable from './Components/CountryTable/CountryTable.jsx';
 import CountryForm from './Components/CountryForm/CountryForm.jsx';
 import styles from './App.module.css';
 
-const API_URL = "http://localhost:8080/api/countries"           // TODO change to backend container name (use env var)
+const API_URL = "/api/countries"
 
 function App() {
     const [countries, setCountries] = useState([]);

@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import styles from './CountryForm.module.css';
 
-const API_URL = "http://localhost:8080/api/countries";
+const API_URL = "/api/countries"
 
 function CountryForm({ initialData, onSaved, onCancel }) {
     const [formData, setFormData] = useState({

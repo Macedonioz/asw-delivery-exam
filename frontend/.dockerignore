@@ -1,0 +1,20 @@
+# Node.js dependencies
+node_modules
+
+# Build artifacts
+dist
+
+# Docker-specific files
+Dockerfile
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Git
+.git
+.gitignore
+
+# Logs
+*.log
