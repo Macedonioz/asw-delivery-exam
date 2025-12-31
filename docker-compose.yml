@@ -9,7 +9,7 @@ services:
       - ./database/scripts:/docker-entrypoint-initdb.d:ro
 
   backend:
-    image: ghcr.io/macedonioz/asw-delivery-exam-backend:1.0.0
+    image: ghcr.io/macedonioz/asw-delivery-exam/backend:1.0.0
     container_name: backend
     depends_on:
       - mongodb
@@ -18,7 +18,7 @@ services:
     restart: on-failure
 
   frontend:
-    image: ghcr.io/macedonioz/asw-delivery-exam-frontend:1.0.0
+    image: ghcr.io/macedonioz/asw-delivery-exam/frontend:1.0.0
     container_name: frontend
     depends_on:
       - backend
