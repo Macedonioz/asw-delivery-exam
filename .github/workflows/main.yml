@@ -97,3 +97,13 @@ jobs:
           tags: |
             ghcr.io/${{ github.repository }}/frontend:${{ steps.frontend_ver.outputs.VERSION }}
             ghcr.io/${{ github.repository }}/frontend:latest
+
+      - name: Zip Release Assets
+        run: |
+          zip -r release-${{ github.ref_name }}.zip docker-compose.yml database/scripts/
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: release-${{ github.ref_name }}.zip
+          generate_release_notes: true

@@ -1,0 +1,9 @@
+# To override docker-compose.yml and build images instead of pulling them from GHCR (local dev)
+services:
+  backend:
+    build:
+      context: ./backend
+ 
+  frontend:
+    build:
+      context: ./frontend
