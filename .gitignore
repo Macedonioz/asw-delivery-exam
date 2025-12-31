@@ -34,9 +34,6 @@ yarn-debug.log*
 yarn-error.log*
 .eslintcache
 
-# Docker
-docker-compose.override.yml
-
 # Environment
 .env
 .env.local
