@@ -36,7 +36,7 @@ docker compose down
 You can also try the application by cloning the repository and building the images locally:
 
 ```bash
-git clone https://github.com/Macedonioz/asw-delivery-exam
+git clone git@github.com:Macedonioz/asw-delivery-exam
 cd asw-delivery-exam
 docker compose up --build -d
 ```
